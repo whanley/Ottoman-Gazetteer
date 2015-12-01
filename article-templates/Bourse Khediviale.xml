@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://myweb.fsu.edu/whanley/eg/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Bourse Khediviale template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div type="article" scope="financial">
+    <head>BOURSE KHEDIVIALE</head>
+    <p>CONTRATS</p>
+    <p>Fluctuations de 9h.30 à lh. p.m.</p>
+    <p><hi rend="italic">Cotons F.G.F.Br.</hi></p>
+    <p>Dans la matinée; prix plus haut pour juillet tal. 14 7/ à —/— ; plus bas pour
+        juillet 14 3/4 à — /—. </p>
+    <p>
+        <hi rend="italic">Grains de coton</hi>
+    </p>
+    <p>Dans la matinée ; prix plus haut pour juil. P.T. 59 10/40 à —/—: plus bas
+        pour jail. 58 35/40 à —/—. </p>
+    <p>Remarques</p>
+    <p>(De Midi à 1h. p.m.)</p>
+    <p>Cotons.—FILL</p>
+    <p>Graines de coton.—FILL</p>
+    <p>Fèves.—FILL</p>
+    <p>Bourse Khédviale, le 11 juillet 1905.</p>
+</div>
+        </body>
+    </text>
+</TEI>
