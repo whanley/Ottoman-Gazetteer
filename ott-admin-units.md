@@ -10,7 +10,7 @@ Provinces:
 Subprovinces:
 - sancak
 - liva
-- mutesarrifiye
+- mutesarrıflık
 
 Districts:
 - kaza
