@@ -1,8 +1,11 @@
-# PDF to 3-column plain text spreadsheet
+# Osmanli Yer Adalari
+
+## 1. PDF to 3-column plain text spreadsheet
 
 I copied the text of Tahir Sezen's 1996 [Osmanli Yer Adalari](http://www.os-ar.com/osmanli_yer_isimleri.pdf) pdf.
 
 I pasted it into a word processor document, then used find and replace with regular expressions to turn it into tab-delineated lines, as follows:
+
 1. replace $ with # (to remove all line breaks)
 2. delete ##[0-9]* (to remove page numbers)
 3. replace [[:::CharHeight=11::]] with \n& (to create a line break between each "new alphabet" place name, which are all given in 11pt font).
