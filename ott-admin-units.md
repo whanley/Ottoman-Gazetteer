@@ -3,8 +3,8 @@
 This is an attempt to generate consensus about the generic units the Gazetteer will use, and to describe relationships between them.
 
 Provinces:
-- vilayet (from 21 jan 1867)
-- eyalet (1590 to 21 jan 1867)
+- vilâyet (from 21 jan 1867)
+- eyâlet (1590 to 21 jan 1867)
 - beylerbeylik (to 1859)
 
 Subprovinces:
@@ -17,4 +17,29 @@ Districts:
 
 Localities:
 - nahiye
-- belediye
+
+Towns:
+- kasaba
+- köy
+- merkez
+- şehir
+
+Also:
+- ada
+- antik şehir
+- başkent
+- başşehir
+- belde
+- beylik
+- bölge
+- emâret
+- kale
+- kontluk
+- mahalle
+- müdiriyet
+- muhafızlık
+- müstakil sancak
+- semt
+- takımada
+- ülke
+- voyvodalık
