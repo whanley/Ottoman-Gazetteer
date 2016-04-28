@@ -1,4 +1,4 @@
-# Osmanli Yer Adalari
+# Osmanli Yer Adlari
 
 ## 1. PDF to 3-column plain text spreadsheet
 
