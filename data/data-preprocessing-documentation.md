@@ -17,10 +17,11 @@ I pasted the results into a spreadsheet and cleaned up a few errors manually. Th
 
 The initial task was to produce a single line for each administrative unit, with the title/district pairs broken out. Almost half of the units have only one pair. Kozan has 14 (!) pairs. It took a bit more than a day to do this.
 
+May 15: The current spreadsheet has many dozens of columns. I have standardized the containing district language (which contained a lot of errors--some remain no doubt). I have given set each nesting unit in its own column. "Bagli 1" is the largest district containing the place in question (typically a province), and Bagli 2 etc are subunits. I have also broken out dates into their own columns, and standardized the titles (unvanlar), which will form part of the ontology of the gazetteer. Also, I have amalgamated "unvan" notes and "bagli" notes into a single column.
+
 # Next:
 
-- I will standardize the containing district language, which contains a lot of errors. Once the database is set up, each of these will be replaced with a url refering to an administrative unit name, and I've got to get them right.
-- I will break out the dates, then standardize the titles (unvanlar), which will form part of the ontology of the gazetteer.
+- I will combine rows which refer to the same place (many places are listed twice, under different names).
 - I will give each administrative unit a number
 - I will substitute the appropriate number for each "containing district" (bağlı olduğu...) field
 - I will produce an RDF skeleton and export the data, conforming to the Pelagios [Gazetteer Interchange Format](https://github.com/pelagios/pelagios-cookbook/wiki/Pelagios-Gazetteer-Interconnection-Format)
