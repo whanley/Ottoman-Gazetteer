@@ -26,12 +26,12 @@ Sancak merkezi|سنجق مركزى|Subprovince seat|
 Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
 Şehir|شهر|City|
 Ada|آطه|Island|
-Müdiriyet|مديريت|Directorate|
+Müdiriyet|مديريت|Department|of Egypt
 Antik şehir||Ancient city|
 Başkent||Capital city
 Kale|قلعه|Fortress|
 Müstakil sancak|||
-Müdiriyet merkezi|||
+Müdiriyet merkezi||Department seat|of Egypt
 Başşehir||Capital city|
 Bölge|بولكه|Region|
 Semt|سمت|Quarter|i.e. of a city
