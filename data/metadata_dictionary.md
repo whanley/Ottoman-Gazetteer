@@ -12,25 +12,26 @@ The administrative units, roughly in order of frequency, with certain weblinks e
 
 Turkish|Ottoman|English|notes
 ---|---|---|---
-Nahiye|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)
+[Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|
 Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|
 [Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|
-Kasaba|قصبه|Town|
-Köy|كوى|Village|
+Kasaba|قصبه|Town|used principally in the 20th century
+Köy|كوى|Village|used principally in the 20th century
 Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
 Kaza merkezi|قضا مركزى|District seat|
-Eyâlet||Province|Before
-Şehir||City|
-Ada||Island|
-Eyâlet merkezi||Province seat|before
-Sancak merkezi||Subprovince seat|
-Vilâyet||Province seat|after
+Eyâlet|ايالت|ج[Province](https://en.wikipedia.org/wiki/Eyalet)|before 1867
+Eyâlet merkezi|ايالت مركزى|Province seat|before 1867
+Sancak merkezi|سنجق مركزى|Subprovince seat|
+Vilâyet|ولايت[|Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
+Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
+Şehir|شهر|City|
+Ada|آطه|Island|
 Antik şehir||Ancient city|
-Müdiriyet|||
-Kale||Fortress|
+Müdiriyet|مديريت|Directorate|
+Kale|قلعه|Fortress|
 Müdiriyet merkezi|||
 Başşehir||Capital city|
-Bölge||Region|
+Bölge|بولكه|Region|
 Semt|سمت|Quarter|i.e. of a city
 Başkent||Capital city
 Liman şehri||Port city|
@@ -42,4 +43,3 @@ Beylik merkezi|||
 Geçit|||
 Hanlık|||
 Köy ve göl|||
-Vilâyet merkezi|||
