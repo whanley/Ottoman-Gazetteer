@@ -19,10 +19,10 @@ Kasaba|قصبه|Town|used principally in the 20th century
 Köy|كوى|Village|used principally in the 20th century
 Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
 Kaza merkezi|قضا مركزى|District seat|
-Eyâlet|ايالت|ج[Province](https://en.wikipedia.org/wiki/Eyalet)|before 1867
+Eyâlet|ايالت|[Province](https://en.wikipedia.org/wiki/Eyalet)|before 1867
 Eyâlet merkezi|ايالت مركزى|Province seat|before 1867
 Sancak merkezi|سنجق مركزى|Subprovince seat|
-Vilâyet|ولايت[|Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
+Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
 Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
 Şehir|شهر|City|
 Ada|آطه|Island|
