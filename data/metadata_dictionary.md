@@ -15,31 +15,37 @@ Turkish|Ottoman|English|notes
 [Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|
 Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|
 [Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|
-Kasaba|قصبه|Town|used principally in the 20th century
 Köy|كوى|Village|used principally in the 20th century
+Kasaba|قصبه|Town|used principally in the 20th century
 Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
 Kaza merkezi|قضا مركزى|District seat|
 Eyâlet|ايالت|[Province](https://en.wikipedia.org/wiki/Eyalet)|before 1867
+Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
 Eyâlet merkezi|ايالت مركزى|Province seat|before 1867
 Sancak merkezi|سنجق مركزى|Subprovince seat|
-Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
 Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
 Şehir|شهر|City|
 Ada|آطه|Island|
+Müdiriyet|مديريت|Directorate|
 Antik şehir||Ancient city|
-Müdiriyet|مديريت|Directorate|
+Başkent||Capital city
 Kale|قلعه|Fortress|
-Müdiriyet merkezi|||
+Müstakil sancak|||
+Müdiriyet merkezi|||
 Başşehir||Capital city|
 Bölge|بولكه|Region|
 Semt|سمت|Quarter|i.e. of a city
-Başkent||Capital city
 Liman şehri||Port city|
 Muhafızlık|||
 Antik kasaba|||
 Takımada|||
 Ülke|||
+Mahalle|||
 Beylik merkezi|||
 Geçit|||
 Hanlık|||
 Köy ve göl|||
+Kaymakamlık|||
+Kontluk|||
+Krallık|||
+Muhtar idare|||
