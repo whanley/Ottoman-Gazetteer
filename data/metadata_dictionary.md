@@ -8,3 +8,38 @@ It uses the following fields:
 4. **Bagli Olduğu Nahiye, Kaza, Sancak, Eyâlet veya Vilâyet** This field lists the superior administrative unit(s) to which the place in question belongs. I have broken each of these out into its own field, and they appear in sequence from subsidiary to superior.
 
 ### Unvan Dictionary
+The administrative units, roughly in order of frequency, with certain weblinks embedded:
+
+Turkish|Ottoman|English|notes
+---|---|---|---
+Nahiye|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)
+Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|
+[Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|
+Kasaba|قصبه|Town|
+Köy|كوى|Village|
+Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
+Kaza merkezi|قضا مركزى|District seat|
+Eyâlet||Province|Before
+Şehir||City|
+Ada||Island|
+Eyâlet merkezi||Province seat|before
+Sancak merkezi||Subprovince seat|
+Vilâyet||Province seat|after
+Antik şehir||Ancient city|
+Müdiriyet|||
+Kale||Fortress|
+Müdiriyet merkezi|||
+Başşehir||Capital city|
+Bölge||Region|
+Semt|سمت|Quarter|i.e. of a city
+Başkent||Capital city
+Liman şehri||Port city|
+Muhafızlık|||
+Antik kasaba|||
+Takımada|||
+Ülke|||
+Beylik merkezi|||
+Geçit|||
+Hanlık|||
+Köy ve göl|||
+Vilâyet merkezi|||
