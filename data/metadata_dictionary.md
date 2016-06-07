@@ -1,20 +1,21 @@
-This gazetteer is a transformation of tables in Tahir Sezen's *Osmanlı Yer Adları* (Ottoman Place Names), available [here](http://www.os-ar.com/osmanli_yer_isimleri.pdf) and many other places.
+This gazetteer is a transformation of tables in Tahir Sezen's *Osmanlı Yer Adları* (Ottoman Place Names), available [here](http://www.os-ar.com/osmanli_yer_isimleri.pdf) and in many other places.
 
 It uses the following fields:
 
-1. **İdârî Birimin Yeni Harflerle Adı** The name of the administrative unit in the Roman alphabet. While many places have just one name here, others have two or more variants, each of which appears in its own field (named İdârî Birimin Yeni Harflerle Adı 2, 3, 4, or 5). The current name of the place is given in all caps in all caps.
-2. **Eski Harflerle Adı** The name of the administrative unit in the Arabic alphabet. Only one name is given here, corresponding to the first entry of the various Romanized names.
-3. **Unvan** This field describes the position that the place occupied in the Ottoman administative hierarchy. A complete dictionary of these terms appears below. In many cases, a year (or approximate year, or century) is given, corresponding to the date at which the place began to occupy its function. There are also often notes (from Sezen) associated with this particular place and position, which I've reproduced in the database.
-4. **Bagli Olduğu Nahiye, Kaza, Sancak, Eyâlet veya Vilâyet** This field lists the superior administrative unit(s) to which the place in question belongs. I have broken each of these out into its own field, and they appear in sequence from subsidiary to superior.
+1. **Placename@tr** (Sezen: İdârî Birimin Yeni Harflerle Adı) The name of the administrative unit in the Roman alphabet. While many places have just one name given, others have two or more variants, each of which appears in its own field (named Placename@tr 2, 3, 4, or 5). The current name of the place is given in all caps. There is also a `Placename_notes` field, containing Sezen's comments. In many cases, this field should be amalgamated with the `admin_unit_#_notes` field.
+2. **Placename@ott** (Sezen: Eski Harflerle Adı) The name of the administrative unit in the Arabic alphabet. Only one name is given here, corresponding to the entry in `placename@tr`.
+3. **Wikidata_url** A link to the Wikidata page which corresponds (more or less) to the place in question. The lat/long coordinates and other data can be scraped from this link.
+4. **Admin_unit_#** (Sezen: Unvan) This field describes the position that the place occupied in the Ottoman administative hierarchy. The lowest numbers (i.e. `Admin_unit_1`) indicate earlier designations, the higher numbers (up to `Admin_unit_14`) indicate later designations. A dictionary of these terms appears below. In many cases, a year (or approximate year, or century) is given (`admin_unit_#_year`), corresponding to the date at which the place began to occupy its function. `admin_unit_#_notes` contains any notes that Sezen gives associated with this particular place and position. 
+5. **Belongs_to_#-#** (Sezen: Bagli Olduğu Nahiye, Kaza, Sancak, Eyâlet veya Vilâyet) This field lists the superior administrative unit(s) to which the place in question belongs. I have broken each of these out into its own field, and they appear in sequence from subsidiary to superior. So, for instance, `Belongs_to_1-1` contains `Belongs_to_1-2`.
 
 ### Unvan Dictionary
-The administrative units, roughly in order of frequency, with certain weblinks embedded:
+The administrative units, roughly in order of frequency, with certain weblinks embedded.
 
 Turkish|Ottoman|English|notes
 ---|---|---|---
-[Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|
-Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|
-[Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|
+[Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|Subsidiary to kaza
+Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|Subsidiary to sancak
+[Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|Subsidiary to eyalet or vilayet
 Köy|كوى|Village|used principally in the 20th century
 Kasaba|قصبه|Town|used principally in the 20th century
 Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
@@ -24,13 +25,13 @@ Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
 Eyâlet merkezi|ايالت مركزى|Province seat|before 1867
 Sancak merkezi|سنجق مركزى|Subprovince seat|
 Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
-Şehir|شهر|City|
-Ada|آطه|Island|
+Şehir|شهر|City|here, typically outside of the Ottoman empire
+Ada|آطه|Island|often also a sancak or kaza
 Müdiriyet|مديريت|Department|of Egypt
 Antik şehir||Ancient city|
-Başkent||Capital city
+Başkent||Capital city|
 Kale|قلعه|Fortress|
-Müstakil sancak|||
+Müstakil sancak||"Independent" subprovince|
 Müdiriyet merkezi||Department seat|of Egypt
 Başşehir||Capital city|
 Bölge|بولكه|Region|
