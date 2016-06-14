@@ -50,3 +50,9 @@ Kaymakamlık|||
 Kontluk|||
 Krallık|||
 Muhtar idare|||
+
+###Usage notes
+
+Generally speaking, id numbers 100-199 are for major provinces, 200-499 for other first order administrative units, 500-999 for cities, 1000-1999 for second order administrative units (sancaks).
+
+Sezen's list contains a lot of material about foreign states and especially about the administrative hierarchy of the Turkish Republic. I have used the field `Ott_or_not` to tag these two entities. For the most part, I have done this by hand. I have excluded batches of sites that are listed as `merkez` in their first listing, however. This designation was particular to the Republic, as far as I can see. Under the Republican scheme, every province had a _merkez ilçe_ (subprovince) with the same name as the province, and the same practice was used for districts as well. So, for the most part, I've labeled such places as part of the Republic of Turkey (thus not part of the Ottoman hierarchy).
