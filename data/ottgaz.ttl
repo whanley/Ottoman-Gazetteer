@@ -1,0 +1,4430 @@
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ottgaz: <http://ottgaz.org/schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+
+<http://ottgaz.org/places/1000> a lawd:Place ;
+	rdfs:label "ABDÜLVEHHAB"@tr , "عبدالوهاب"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/579> a lawd:Place ;
+	rdfs:label "ABHA"@tr , "ابها"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q190948" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1001> a lawd:Place ;
+	rdfs:label "ACARETEYN"@tr , "آجارتين"@ott , "Acara-i Ulyâ ve Acara-i Süfl."@tr , "ACARİSTAN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1002> a lawd:Place ;
+	rdfs:label "ACLUN"@tr , "عجلون"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1003> a lawd:Place ;
+	rdfs:label "ACLUN VE SALHAD"@tr , "عجلون وصلحد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1004> a lawd:Place ;
+	rdfs:label "ACUR"@tr , "عجور"@ott , "Acur Kal‘a"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1005> a lawd:Place ;
+	rdfs:label "ADALAR"@tr , "آطه لر"@ott , "Büyükada"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/100> a lawd:Place ;
+	rdfs:label "ADANA"@tr , "آطنه (ادنه)"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1006> a lawd:Place ;
+	rdfs:label "ADEN"@tr , "عدن"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1007> a lawd:Place ;
+	rdfs:label "ADİLCEVAZ"@tr , "عادلجواز"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/350> a lawd:Place ;
+	rdfs:label "AFYONKARAHİSAR"@tr , "آفيون قره حصار"@ott , "Afyon"@tr , "Karahisar-ı Sahib"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1008> a lawd:Place ;
+	rdfs:label "AĞAKİS"@tr , "آغاکس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/353> a lawd:Place ;
+	rdfs:label "AĞRIBOZ"@tr , "آغريبوز"@ott , "Eğriboz"@tr , "Eubee"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1009> a lawd:Place ;
+	rdfs:label "AHILKALAK ve MAÇAHEL"@tr , "آخالقلاک وماچه خل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/534> a lawd:Place ;
+	rdfs:label "AHISKA"@tr , "آخسخه"@ott , "Ahısha"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q212546" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1010> a lawd:Place ;
+	rdfs:label "AHLAT"@tr , "آخلاط"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q400362" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/354> a lawd:Place ;
+	rdfs:label "AHSA"@tr , "احسا"@ott , "Necd-i Şarkî"@tr , "El-Hufûf"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1011> a lawd:Place ;
+	rdfs:label "Ahyolu Burgazı"@tr , "آخيولی بورغازی"@ott , "BURGAZ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1012> a lawd:Place ;
+	rdfs:label "AKÇAKALE"@tr , "آقچه قلعه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/501> a lawd:Place ;
+	rdfs:label "Akçaşehir"@tr , "آقچه شهر"@ott , "SÖKE"@tr , "سوکه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q1012854" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/1578> a lawd:Place ;
+	rdfs:label "AKKA"@tr , "عکا"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1013> a lawd:Place ;
+	rdfs:label "AKKİRMAN"@tr , "آق کيرمان"@ott , "Belgorod-Dinestrouski"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/535> a lawd:Place ;
+	rdfs:label "AKMESCİT"@tr , "آق مسجد"@ott , "Simferopol"@tr , "سيمفروپول"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q19566" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/355> a lawd:Place ;
+	rdfs:label "AKSARAY"@tr , "آق سرای"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/1014> a lawd:Place ;
+	rdfs:label "AKŞEHİR"@tr , "آقشهر"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1015> a lawd:Place ;
+	rdfs:label "ALACAHİSAR"@tr , "آلاجه حصار"@ott , "Kruşevac"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1016> a lawd:Place ;
+	rdfs:label "Alâiye"@tr , "علاءيه"@ott , "ALANYA"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1017> a lawd:Place ;
+	rdfs:label "AMÂRA"@tr , "عماره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/356> a lawd:Place ;
+	rdfs:label "AMASYA"@tr , "آماسيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/536> a lawd:Place ;
+	rdfs:label "AMASYA"@tr , "آماسيه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q170532" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1018> a lawd:Place ;
+	rdfs:label "AMASYA-ÇORUM"@tr , "آماسيه - چوروم"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1019> a lawd:Place ;
+	rdfs:label "Âmid"@tr , "آمد"@ott , "Karaâmid"@tr , "DİYARBAKIR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1020> a lawd:Place ;
+	rdfs:label "AMRAN"@tr , "عمران"@ott , "Umran"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1021> a lawd:Place ;
+	rdfs:label "ANA"@tr , "عنه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1022> a lawd:Place ;
+	rdfs:label "ANA ve HİT"@tr , "عنه وهيت"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1023> a lawd:Place ;
+	rdfs:label "ANABOLU"@tr , "آنابولی"@ott , "Navplion"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/101> a lawd:Place ;
+	rdfs:label "ANADOLU"@tr , "آناطولی"@ott , "Ankara, Kütahya"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1024> a lawd:Place ;
+	rdfs:label "ANİS"@tr , "آنس"@ott , "Bilâd-ı Anis"@tr , "Zoran"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/600> a lawd:Place ;
+	rdfs:label "ANKARA"@tr , "آنقره"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3640" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/102> a lawd:Place ;
+	rdfs:label "ANKARA"@tr , "آنقره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1025> a lawd:Place ;
+	rdfs:label "ANMERKUNG"@tr , "آنمرقونغ"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1579> a lawd:Place ;
+	rdfs:label "ANTAKYA"@tr , "آنتاکيه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q80561" ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/359> a lawd:Place ;
+	rdfs:label "ANTALYA"@tr , "آنتاليه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q6487" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/103> a lawd:Place ;
+	rdfs:label "ARAB"@tr , "عرب"@ott , "Şam"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1026> a lawd:Place ;
+	rdfs:label "ARABAT"@tr , "آرابات"@ott , "Arbat"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1027> a lawd:Place ;
+	rdfs:label "ARAD"@tr , "آراد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1028> a lawd:Place ;
+	rdfs:label "ARAPKİR"@tr , "عرپکير"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q626165" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/351> a lawd:Place ;
+	rdfs:label "ARDAHAN"@tr , "آردهان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/1030> a lawd:Place ;
+	rdfs:label "ARDANUÇ"@tr , "آردانوچ"@ott , "Adakale"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/502> a lawd:Place ;
+	rdfs:label "Arduşin"@tr , "آردوشين"@ott , "YENİBAŞAK"@tr , "يکی باشاق"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q6528766" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/110> .
+
+<http://ottgaz.org/places/352> a lawd:Place ;
+	rdfs:label "ARKADYA"@tr , "عرقديا"@ott , "Kyparissia"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1031> a lawd:Place ;
+	rdfs:label "ARKİKO"@tr , "آرکيکو"@ott , "Archico"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/1032> a lawd:Place ;
+	rdfs:label "ARNAUD"@tr , "آرناؤد"@ott , "Arnavud"@tr , "Albania"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1033> a lawd:Place ;
+	rdfs:label "ARPALI"@tr , "آرپالی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1034> a lawd:Place ;
+	rdfs:label "ARŞOVA"@tr , "آرشوه"@ott , "Orşova"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/363> a lawd:Place ;
+	rdfs:label "ARTVİN"@tr , "آرتوين"@ott , "Livane"@tr , "Önceki aşamaları “Livane” maddelerinde."@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q193445" ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1035> a lawd:Place ;
+	rdfs:label "ASİR"@tr , "عسير"@ott , "Abha"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1550> a lawd:Place ;
+	rdfs:label "AŞİRET-İ YENİ İL"@tr , "عشيرت يگی ايل"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/114> .
+
+<http://ottgaz.org/places/1036> a lawd:Place ;
+	rdfs:label "ASPİNZE"@tr , "آسپينزه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1037> a lawd:Place ;
+	rdfs:label "ASTUN"@tr , "آستون"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1038> a lawd:Place ;
+	rdfs:label "ATAK maa LİCE"@tr , "آتاق مع ليجه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1039> a lawd:Place ;
+	rdfs:label "ATFİHİYE maa KAHİRE"@tr , "اطفيحيه مع قاهره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1040> a lawd:Place ;
+	rdfs:label "AVLONYA"@tr , "آولونيه"@ott , "Vlore"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1041> a lawd:Place ;
+	rdfs:label "AVLONYA"@tr , "آولونيه"@ott , "Vlore"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1042> a lawd:Place ;
+	rdfs:label "AVLONYA maa BERAT"@tr , "آولونيه مع برات"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1043> a lawd:Place ;
+	rdfs:label "AYAMAURA"@tr , "آيامورا"@ott , "Sainta Maura"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/104> a lawd:Place ;
+	rdfs:label "AYDIN"@tr , "آيدين"@ott , "Güzelhisar"@tr , "İzmir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/601> a lawd:Place ;
+	rdfs:label "AYDIN"@tr , "آيدين"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q170457" .
+
+<http://ottgaz.org/places/349> a lawd:Place ;
+	rdfs:label "Ayntâb"@tr , "عينتاب"@ott , "Gazi Ayntâb"@tr , "GAZİANTEP"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1044> a lawd:Place ;
+	rdfs:label "AYVALIK maa KÂFİR AĞILI"@tr , "آيوالق مع کافرآغيلی"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1045> a lawd:Place ;
+	rdfs:label "AZAK"@tr , "آزاق"@ott , "Azof"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1551> a lawd:Place ;
+	rdfs:label "Aziziye"@tr , "عزيزيه"@ott , "PINARBAŞI"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1046> a lawd:Place ;
+	rdfs:label "AZİZİYE"@tr , "عزيزيه"@ott , "Kal’atüşşamar"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1047> a lawd:Place ;
+	rdfs:label "BABOKA"@tr , "بابوقه"@ott , "Babocsa"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1048> a lawd:Place ;
+	rdfs:label "BAÇKA"@tr , "بچقه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1049> a lawd:Place ;
+	rdfs:label "BAÇUVANLU"@tr , "باچوانلو"@ott , "Baçuvan"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/1050> a lawd:Place ;
+	rdfs:label "BAF"@tr , "باف"@ott , "Paphos"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/106> a lawd:Place ;
+	rdfs:label "BAĞDAD"@tr , "باغداد"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/107> a lawd:Place ;
+	rdfs:label "BAĞDAD maa ŞEHRİZOR"@tr , "باغداد مع شهرزور"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/368> a lawd:Place ;
+	rdfs:label "BAGOBİT"@tr , "باغوبيت"@ott ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/369> a lawd:Place ;
+	rdfs:label "BAKÜ"@tr , "باکو"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/503> a lawd:Place ;
+	rdfs:label "BALAT"@tr , "بلاط"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2880568" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1051> a lawd:Place ;
+	rdfs:label "BALATON"@tr , "بلاطون"@ott , "Plattensee"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/370> a lawd:Place ;
+	rdfs:label "BALIKESİR"@tr , "باليکسری"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q199723" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1052> a lawd:Place ;
+	rdfs:label "BALIKLAVA"@tr , "بالقلاوه"@ott , "Balaclava"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1053> a lawd:Place ;
+	rdfs:label "BÂLİS"@tr , "باليس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/1054> a lawd:Place ;
+	rdfs:label "BALISIRA"@tr , "بالی صيره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1055> a lawd:Place ;
+	rdfs:label "BALKAS"@tr , "بالقاص"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1056> a lawd:Place ;
+	rdfs:label "BALLIBADRA"@tr , "باللی بادره"@ott , "Patrai"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1057> a lawd:Place ;
+	rdfs:label "BÂNA"@tr , "بانه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/1058> a lawd:Place ;
+	rdfs:label "BANALUKA"@tr , "بانالوقه"@ott , "Banja Luka"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1059> a lawd:Place ;
+	rdfs:label "BARDÛ‘"@tr , "باردوع"@ott , "Berdük"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1060> a lawd:Place ;
+	rdfs:label "Bargiri"@tr , "بارکری"@ott , "MURADİYE"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1061> a lawd:Place ;
+	rdfs:label "BAŞKALE"@tr , "باش قلعه"@ott , "Elbak"@tr , "الباق"@ott , "Albak"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q812759" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/108> a lawd:Place ;
+	rdfs:label "BASRA"@tr , "بصره"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/108> .
+
+<http://ottgaz.org/places/602> a lawd:Place ;
+	rdfs:label "BASRA"@tr , "بصره"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q48195" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/372> a lawd:Place ;
+	rdfs:label "BATMAN"@tr , "باطمان"@ott , "İluh"@tr ;
+	ottgaz:type "Köy" .
+
+<http://ottgaz.org/places/1062> a lawd:Place ;
+	rdfs:label "BATUM"@tr , "باطوم"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q25475" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/171> .
+
+<http://ottgaz.org/places/1063> a lawd:Place ;
+	rdfs:label "BAYAT"@tr , "بايات"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/373> a lawd:Place ;
+	rdfs:label "BAYAZIT"@tr , "بايزيد"@ott , "Kale-i Bayezid"@tr , "Doğubeyazıt"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1064> a lawd:Place ;
+	rdfs:label "BAYBURT"@tr , "بايبورد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q211828" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1065> a lawd:Place ;
+	rdfs:label "BEDRE ve GASSAN"@tr , "بدره و غسان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1066> a lawd:Place ;
+	rdfs:label "BEHBEH"@tr , "بهبه"@ott , "Behbehan"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1067> a lawd:Place ;
+	rdfs:label "BELEN"@tr , "بيلان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/374> a lawd:Place ;
+	rdfs:label "BELGRAD"@tr , "بلغراد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3711" ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1068> a lawd:Place ;
+	rdfs:label "Belgrad"@tr , "بلغراد"@ott , "BERAT"@tr , "Arnavutluk Belgradı"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1069> a lawd:Place ;
+	rdfs:label "BELKA"@tr , "بلقا"@ott , "Nablus, Salt"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/168> .
+
+<http://ottgaz.org/places/1070> a lawd:Place ;
+	rdfs:label "BELNOŞ"@tr , "بلنوش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/1071> a lawd:Place ;
+	rdfs:label "BENDER"@tr , "بندر"@ott , "Bendery"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q192176" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1072> a lawd:Place ;
+	rdfs:label "BENİLÂM"@tr , "بنی لام"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1073> a lawd:Place ;
+	rdfs:label "BENİREBİA"@tr , "بنی ربيعه"@ott , "Diyar-ı Beni Rebia"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1074> a lawd:Place ;
+	rdfs:label "BENİSUVEYF"@tr , "بنی سويف"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1075> a lawd:Place ;
+	rdfs:label "BERAT"@tr , "برات"@ott , "Belgrad"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1076> a lawd:Place ;
+	rdfs:label "BERAT maa AVLUNYA"@tr , "برات مع آولونيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1077> a lawd:Place ;
+	rdfs:label "BEREND"@tr , "برند"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/375> a lawd:Place ;
+	rdfs:label "Bergos"@tr , "برغوس"@ott , "Ahyolu Burgazı"@tr , "BURGAZ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1078> a lawd:Place ;
+	rdfs:label "BERKOFÇA"@tr , "برقوفچه"@ott , "Berkovitsa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1079> a lawd:Place ;
+	rdfs:label "BEŞKELEK"@tr , "بش کلک"@ott , "Nagy Becskerek"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1080> a lawd:Place ;
+	rdfs:label "BESNİ"@tr , "بهسنی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1081> a lawd:Place ;
+	rdfs:label "BEYOĞLU"@tr , "بک اوغلی"@ott , "Pera"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1580> a lawd:Place ;
+	rdfs:label "BEYRUT"@tr , "بيروت"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/376> a lawd:Place ;
+	rdfs:label "BEYŞEHİR"@tr , "بک شهر"@ott ;
+	ottgaz:type "Vilâyet" .
+
+<http://ottgaz.org/places/504> a lawd:Place ;
+	rdfs:label "BEYTÜDDÎN"@tr , "بيت الدين"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q246163" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1082> a lawd:Place ;
+	rdfs:label "BİGA"@tr , "بيغا"@ott , "Kale-i Sultaniye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1083> a lawd:Place ;
+	rdfs:label "BİHKE"@tr , "بهکه"@ott , "Bihaç"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1084> a lawd:Place ;
+	rdfs:label "BİKÂ"@tr , "بقاع"@ott , "Bik.ülaziz"@tr , "Ma‘allaka"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1085> a lawd:Place ;
+	rdfs:label "BİLÂD-I BİŞARA"@tr , "بلاد بشاره"@ott , "Tibnin"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/160> .
+
+<http://ottgaz.org/places/377> a lawd:Place ;
+	rdfs:label "BİLECİK"@tr , "بيله جک"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q208006" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/378> a lawd:Place ;
+	rdfs:label "BİNGAZİ"@tr , "بنغازی"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/379> a lawd:Place ;
+	rdfs:label "BİNGÖL"@tr , "بيک کول"@ott , "Çapakçur"@tr ;
+	ottgaz:type "Vilâyet" .
+
+<http://ottgaz.org/places/505> a lawd:Place ;
+	rdfs:label "BİRECİK"@tr , "بيره جک"@ott , "Bire"@tr , "Biretülfırat"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q849497" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/110> a lawd:Place ;
+	rdfs:label "BİTLİS"@tr , "بدليس"@ott , "Bidlis"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/603> a lawd:Place ;
+	rdfs:label "BİTLİS"@tr , "بدليس"@ott , "Bidlis"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q83531" .
+
+<http://ottgaz.org/places/111> a lawd:Place ;
+	rdfs:label "BOĞDAN"@tr , "بوغدان"@ott , "Moldavya"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/111> .
+
+<http://ottgaz.org/places/382> a lawd:Place ;
+	rdfs:label "BOLU"@tr , "بولی"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q200951" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/113> a lawd:Place ;
+	rdfs:label "BOSNA"@tr , "بوسنه"@ott , "Bosnien"@tr , "Saraybosna"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1086> a lawd:Place ;
+	rdfs:label "BOZCAADA"@tr , "بوزجه آطه"@ott , "Tenedos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/114> a lawd:Place ;
+	rdfs:label "BOZOK"@tr , "بوز اوق"@ott , "Yozgat"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
+
+<http://ottgaz.org/places/1581> a lawd:Place ;
+	rdfs:label "Bucak"@tr , "بوجاق"@ott , "ORDU"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/171> .
+
+<http://ottgaz.org/places/1087> a lawd:Place ;
+	rdfs:label "BUCAKTATARI"@tr , "بوجاق تاتاری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1088> a lawd:Place ;
+	rdfs:label "BUHAYRA"@tr , "بحيره"@ott , "Demenhûr"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1089> a lawd:Place ;
+	rdfs:label "BUKBAK"@tr , "بوقباق"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/537> a lawd:Place ;
+	rdfs:label "BÜKREŞ"@tr , "بکرش"@ott , "Bucureşti"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q19660" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/123> .
+
+<http://ottgaz.org/places/115> a lawd:Place ;
+	rdfs:label "BULGARİSTAN"@tr , "بولغارستان"@ott , "Sofya"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/386> a lawd:Place ;
+	rdfs:label "BURDUR"@tr , "بوردور"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/387> a lawd:Place ;
+	rdfs:label "BURGAZ"@tr , "بورغاز"@ott , "Bergos"@tr , "Ahyolu Burgazı"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/388> a lawd:Place ;
+	rdfs:label "BURSA"@tr , "بروسه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q40738" ;
+	ottgaz:type "Başkent" .
+
+<http://ottgaz.org/places/506> a lawd:Place ;
+	rdfs:label "BÜYÜKADA"@tr , "بويوک آطه"@ott , "Beyadası"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q989883" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1090> a lawd:Place ;
+	rdfs:label "ÇAD"@tr , "چاد"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1091> a lawd:Place ;
+	rdfs:label "ÇAĞAN maa KIZILCA"@tr , "چاغان مع قزيلجه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1092> a lawd:Place ;
+	rdfs:label "ÇAMASA"@tr , "چام آسا"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1552> a lawd:Place ;
+	rdfs:label "CAMİAYN"@tr , "جامعين"@ott , "Hille"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1093> a lawd:Place ;
+	rdfs:label "CAMİLİ"@tr , "جامعلی"@ott , "Maçehel"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1094> a lawd:Place ;
+	rdfs:label "ÇAMLIK"@tr , "چاملق"@ott , "Parga = Reşadiye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1095> a lawd:Place ;
+	rdfs:label "ÇANAD"@tr , "چناد"@ott , "Sana‘d"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/389> a lawd:Place ;
+	rdfs:label "ÇANAKKALE"@tr , "چناق قلعه"@ott , "Kale-i Sultaniye"@tr , "قلعهء سلطانيه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q199712" ;
+	ottgaz:type "Vilâyet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/390> a lawd:Place ;
+	rdfs:label "CANİK"@tr , "جانک"@ott , "Samsun"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/391> a lawd:Place ;
+	rdfs:label "ÇANKIRI"@tr , "چاگ قيری"@ott , "Kengırı"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1096> a lawd:Place ;
+	rdfs:label "ÇANKULA"@tr , "چانقوله"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1097> a lawd:Place ;
+	rdfs:label "ÇAPAKÇUR"@tr , "چپاقچور"@ott , "Çevlik"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1098> a lawd:Place ;
+	rdfs:label "Çarsancak"@tr , "چارسنجاق"@ott , "AKPAZAR"@tr , "Peri"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/392> a lawd:Place ;
+	rdfs:label "ÇATALCA"@tr , "چتالجه"@ott ;
+	ottgaz:type "Kaza" .
+
+<http://ottgaz.org/places/393> a lawd:Place ;
+	rdfs:label "CEBEL-İ DÜRÛZ"@tr , "جبل دروز"@ott , "Süveyde"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1099> a lawd:Place ;
+	rdfs:label "CEBEL-İ DÜRZİ"@tr , "جبل درزی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/160> .
+
+<http://ottgaz.org/places/1100> a lawd:Place ;
+	rdfs:label "CEBEL-İ GARBİ"@tr , "جبل غربی"@ott , "Garbiye"@tr , "Kasr-ı Yifrin"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/1101> a lawd:Place ;
+	rdfs:label "CEBEL-İ HAMRİN"@tr , "جبل حمرين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1102> a lawd:Place ;
+	rdfs:label "CEBEL-İ KOZAN"@tr , "جبل قوزان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1103> a lawd:Place ;
+	rdfs:label "CEBEL-İ LÜBNAN"@tr , "جبل لبنان"@ott , "Beytüddin, Deyrülkamer"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/1104> a lawd:Place ;
+	rdfs:label "CEBEL-İ NASARA"@tr , "جبل نصارا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/1599> a lawd:Place ;
+	rdfs:label "CEBELE"@tr , "جبله"@ott , "Ceble"@tr , "Lazkiye"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/394> a lawd:Place ;
+	rdfs:label "Cebelibekeret"@tr , "جبل برکت"@ott , "Yarpuz"@tr , "OSMANİYE"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/1105> a lawd:Place ;
+	rdfs:label "ÇEÇEREK VE GÖLE"@tr , "چچرک وکوله"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1106> a lawd:Place ;
+	rdfs:label "CEDİD DOĞAN"@tr , "جديد طوغان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1107> a lawd:Place ;
+	rdfs:label "ÇEKŞEKE"@tr , "چکشکه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1108> a lawd:Place ;
+	rdfs:label "ÇEMİŞGEZEK"@tr , "چشمکزک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/395> a lawd:Place ;
+	rdfs:label "ÇEPNİ"@tr , "چپنی"@ott ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/396> a lawd:Place ;
+	rdfs:label "ÇERKEZ"@tr , "چرکس"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1109> a lawd:Place ;
+	rdfs:label "ÇERMİK"@tr , "چرميک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/117> a lawd:Place ;
+	rdfs:label "CEZAYİR"@tr , "جزاير"@ott , "Cezayir-i Garb"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/117> .
+
+<http://ottgaz.org/places/118> a lawd:Place ;
+	rdfs:label "CEZAYİR-İ BAHR-İ SEFİD"@tr , "جزاير بحرسفيد"@ott , "Kaptanpaşa"@tr , "Gelibolu, Çanakkale, Sakız, Rodos"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1110> a lawd:Place ;
+	rdfs:label "CEZİRE"@tr , "جزيره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1111> a lawd:Place ;
+	rdfs:label "CİDDE"@tr , "جده"@ott , "Cüdde"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q374365" ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1112> a lawd:Place ;
+	rdfs:label "CİHANBEYLİ"@tr , "جهان بکلی"@ott , "Aşiret-i Cihanbeyli"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/114> .
+
+<http://ottgaz.org/places/119> a lawd:Place ;
+	rdfs:label "ÇILDIR"@tr , "چلدر"@ott , "Ahıska"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1113> a lawd:Place ;
+	rdfs:label "ÇİNGENE"@tr , "چنکانه"@ott , "Zigeuner"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1114> a lawd:Place ;
+	rdfs:label "CİRCA"@tr , "جرجه"@ott , "Sa’id"@tr , "Samah"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1115> a lawd:Place ;
+	rdfs:label "ÇİRMEN"@tr , "چرمن"@ott , "Ormenion"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1116> a lawd:Place ;
+	rdfs:label "CİZE"@tr , "جيزه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1117> a lawd:Place ;
+	rdfs:label "CİZRE"@tr , "جزره"@ott , "Cezire-i İbni Ömer"@tr , "Cezire-i Ömeriyye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1118> a lawd:Place ;
+	rdfs:label "ÇOBANLU"@tr , "چوبانلو"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1119> a lawd:Place ;
+	rdfs:label "ÇORGANA"@tr , "چورغنه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1120> a lawd:Place ;
+	rdfs:label "ÇORLU"@tr , "چورلی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/401> a lawd:Place ;
+	rdfs:label "ÇORUM"@tr , "چوروم"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/102> .
+
+<http://ottgaz.org/places/1121> a lawd:Place ;
+	rdfs:label "ÇORUM"@tr , "چوروم"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1122> a lawd:Place ;
+	rdfs:label "ÇORUM maa AMASYA"@tr , "چوروم مع آماسيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/402> a lawd:Place ;
+	rdfs:label "ÇUKURÂBÂD"@tr , "چقور آباد"@ott ;
+	ottgaz:type "Vilâyet" .
+
+<http://ottgaz.org/places/1123> a lawd:Place ;
+	rdfs:label "CULAB"@tr , "جولاب"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/403> a lawd:Place ;
+	rdfs:label "CUMA-İ ATİK"@tr , "جمعهء عتيق"@ott , "Eskicuma"@tr , "Tirgovişte"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/172> .
+
+<http://ottgaz.org/places/1124> a lawd:Place ;
+	rdfs:label "ÇÜNGÜŞ"@tr , "چونکوش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/404> a lawd:Place ;
+	rdfs:label "DAĞISTAN"@tr , "طاغستان"@ott , "Derbent"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1125> a lawd:Place ;
+	rdfs:label "DARENDE ve DİVRİĞİ"@tr , "دارنده وديوريکی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1126> a lawd:Place ;
+	rdfs:label "DARNE"@tr , "دارنه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1127> a lawd:Place ;
+	rdfs:label "DEBRE"@tr , "دبره"@ott , "Dibre, Debar"@tr , "Debre-i Bâlâ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/163> .
+
+<http://ottgaz.org/places/507> a lawd:Place ;
+	rdfs:label "DEBRE-İ BÂLÂ"@tr , "دبرهء بالا"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q689820" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1553> a lawd:Place ;
+	rdfs:label "DEDEAĞAÇ"@tr , "دده آغاچ"@ott , "Alexandroupolis"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/1128> a lawd:Place ;
+	rdfs:label "DEHBÂLÂ"@tr , "ده بالا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1129> a lawd:Place ;
+	rdfs:label "DELVİNE"@tr , "دلوينه"@ott , "Ergiri Kasrı"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1130> a lawd:Place ;
+	rdfs:label "DEMİRKAPI"@tr , "تيمورقپو"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/405> a lawd:Place ;
+	rdfs:label "DENİZLİ"@tr , "دگزلی"@ott , "Lazkiye, Lâdik"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/569> a lawd:Place ;
+	rdfs:label "DER’A"@tr , "درعا"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q238217" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/168> .
+
+<http://ottgaz.org/places/406> a lawd:Place ;
+	rdfs:label "DERBEND"@tr , "دربند"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1131> a lawd:Place ;
+	rdfs:label "DERE"@tr , "دره"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1132> a lawd:Place ;
+	rdfs:label "DERNE"@tr , "درنه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1133> a lawd:Place ;
+	rdfs:label "DERSİM"@tr , "درسم"@ott , "Hozat"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1134> a lawd:Place ;
+	rdfs:label "DERTENG"@tr , "درتنگ"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/508> a lawd:Place ;
+	rdfs:label "DEYR"@tr , "دير"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q239097" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1135> a lawd:Place ;
+	rdfs:label "DEYR maa RAHBE"@tr , "دير مع رحبه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1136> a lawd:Place ;
+	rdfs:label "DEYRÜLKAMER"@tr , "ديرالقمر"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q613943" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/160> .
+
+<http://ottgaz.org/places/1137> a lawd:Place ;
+	rdfs:label "DİMETOKA"@tr , "ديمتوقه"@ott , "Dimotika"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/539> a lawd:Place ;
+	rdfs:label "DIMIŞK"@tr , "دِمِشق"@ott , "Damas"@tr , "Şam"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3766" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1138> a lawd:Place ;
+	rdfs:label "DİMYAT"@tr , "دمياط"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1554> a lawd:Place ;
+	rdfs:label "DIRAC"@tr , "دراج"@ott , "Durazzo"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1139> a lawd:Place ;
+	rdfs:label "DİVANİYE"@tr , "ديوانيه"@ott , "Ed-Divaniye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1140> a lawd:Place ;
+	rdfs:label "DİVRİĞİ"@tr , "ديورکی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1141> a lawd:Place ;
+	rdfs:label "DİVRİĞİ ve DARENDE"@tr , "ديورکی ودارنده"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/121> a lawd:Place ;
+	rdfs:label "DİYARBAKIR"@tr , "ديار بکر"@ott , "Diyar-ı Bekr"@tr , "Âmid"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/605> a lawd:Place ;
+	rdfs:label "DİYARBAKIR"@tr , "ديار بکر"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q83387" .
+
+<http://ottgaz.org/places/1142> a lawd:Place ;
+	rdfs:label "DOĞAN"@tr , "طوغان"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/408> a lawd:Place ;
+	rdfs:label "DOĞUBAYAZIT"@tr , "طوغی بايزيد"@ott , "Bayazıt"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1144> a lawd:Place ;
+	rdfs:label "DRAMA"@tr , "درامه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/163> .
+
+<http://ottgaz.org/places/1555> a lawd:Place ;
+	rdfs:label "DUKAKİN"@tr , "دوقه کين"@ott , "Ducjean"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1145> a lawd:Place ;
+	rdfs:label "DULÇURAN"@tr , "دولچوران"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1146> a lawd:Place ;
+	rdfs:label "DÜLEYM"@tr , "دليم"@ott , "Kal’atürremad"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1147> a lawd:Place ;
+	rdfs:label "DUMBELİ"@tr , "دومبه لی"@ott , "Donbali"@tr , "Sökmenâbâd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1148> a lawd:Place ;
+	rdfs:label "DURAMAN"@tr , "دورامان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/409> a lawd:Place ;
+	rdfs:label "DÜZCE"@tr , "دوزجه"@ott , "Konurâbâd"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1556> a lawd:Place ;
+	rdfs:label "EBÛARİŞ"@tr , "ابو عريش"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/122> a lawd:Place ;
+	rdfs:label "EDİRNE"@tr , "ادرنه"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/606> a lawd:Place ;
+	rdfs:label "EDİRNE"@tr , "ادرنه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q43387" ;
+	ottgaz:type "Başşehir" .
+
+<http://ottgaz.org/places/123> a lawd:Place ;
+	rdfs:label "EFLAK"@tr , "افلاک"@ott , "Bükreş"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/123> .
+
+<http://ottgaz.org/places/1149> a lawd:Place ;
+	rdfs:label "EĞERSEK"@tr , "اکرسک"@ott , "Egerszek"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/1150> a lawd:Place ;
+	rdfs:label "EĞİL"@tr , "اکيل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1151> a lawd:Place ;
+	rdfs:label "EĞİRDİR"@tr , "اکردير"@ott , "Felekâbâd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/412> a lawd:Place ;
+	rdfs:label "EĞRİ"@tr , "اکری"@ott , "Eger, Erlau"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1152> a lawd:Place ;
+	rdfs:label "EL-A’LÂ"@tr , "الاعلا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1153> a lawd:Place ;
+	rdfs:label "EL-FEYYÛM"@tr , "الفيوم"@ott , "Feyyûm"@tr , "Medinetülfeyyüm"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1154> a lawd:Place ;
+	rdfs:label "EL-HUDEYDE"@tr , "الحديده"@ott , "Hudeyde"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/509> a lawd:Place ;
+	rdfs:label "EL-HUFÛF"@tr , "الحفوف"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q27136" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1155> a lawd:Place ;
+	rdfs:label "EL-HUMS"@tr , "الخمس"@ott , "Humus"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/1156> a lawd:Place ;
+	rdfs:label "EL-LUHEYYE"@tr , "اللحيه"@ott , "Luheyye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1157> a lawd:Place ;
+	rdfs:label "EL-VÂHÂT"@tr , "الواحات"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/621> a lawd:Place ;
+	rdfs:label "ELÂZIĞ"@tr , "العزيز"@ott , "MamÛretülaziz"@tr , "معمورة العزيز"@ott , "Elaziz"@tr , "Mezraa"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q174060" .
+
+<http://ottgaz.org/places/1159> a lawd:Place ;
+	rdfs:label "ELBASAN"@tr , "ايلبصان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/540> a lawd:Place ;
+	rdfs:label "ELBİSTAN"@tr , "البستان"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q117181" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
+
+<http://ottgaz.org/places/1160> a lawd:Place ;
+	rdfs:label "ELEŞKİRT"@tr , "الشکرد"@ott , "Toprakkale"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/510> a lawd:Place ;
+	rdfs:label "ELMALI"@tr , "المالو"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q1013462" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1161> a lawd:Place ;
+	rdfs:label "ERBİL"@tr , "اربيل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1162> a lawd:Place ;
+	rdfs:label "ERCAN"@tr , "ارجان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1163> a lawd:Place ;
+	rdfs:label "ERCİŞ"@tr , "ارجيش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1164> a lawd:Place ;
+	rdfs:label "ERDEK"@tr , "اردک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/133> .
+
+<http://ottgaz.org/places/414> a lawd:Place ;
+	rdfs:label "ERDEL"@tr , "اردل"@ott , "Transilvanya"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/415> a lawd:Place ;
+	rdfs:label "ERDELAN"@tr , "اردلان"@ott , "Sine"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1165> a lawd:Place ;
+	rdfs:label "ERGANİ"@tr , "ارغنی"@ott , "Ergani Osmaniye"@tr , "Osmaniye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/417> a lawd:Place ;
+	rdfs:label "Erganimadeni"@tr , "ارغنی معدنی"@ott , "MADEN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1166> a lawd:Place ;
+	rdfs:label "ERGİRİ"@tr , "ارکری"@ott , "Argyrocastron"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q173690" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/418> a lawd:Place ;
+	rdfs:label "ERİVAN"@tr , "اريوان"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/419> a lawd:Place ;
+	rdfs:label "ERTUĞRUL"@tr , "ارطغرل"@ott , "Bilecik"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/420> a lawd:Place ;
+	rdfs:label "ERZİNCAN"@tr , "ارزنجان"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/125> a lawd:Place ;
+	rdfs:label "ERZURUM"@tr , "( ارضروم (ارزن روم"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/607> a lawd:Place ;
+	rdfs:label "ERZURUM"@tr , "( ارضروم (ارزن روم"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q122803" .
+
+<http://ottgaz.org/places/421> a lawd:Place ;
+	rdfs:label "ESKİ CUMA"@tr , "اسکی جمعه"@ott , "Cuma-ı atik"@tr , "Tirgovişte"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/172> .
+
+<http://ottgaz.org/places/1167> a lawd:Place ;
+	rdfs:label "ESKİMUSUL"@tr , "اسکی موصل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/1557> a lawd:Place ;
+	rdfs:label "ESKİPAZAR"@tr , "اسکی بازار"@ott , "Viranşehir"@tr , "Mecidiye"@tr , "Kıran"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/422> a lawd:Place ;
+	rdfs:label "ESKİŞEHİR"@tr , "اسکی شهر"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q168866" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/423> a lawd:Place ;
+	rdfs:label "ESKİZAĞRA"@tr , "اسکی زغره"@ott , "ZaĞra-i atik"@tr , "Stara-Zagora"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/1168> a lawd:Place ;
+	rdfs:label "FARİSKUR"@tr , "فارسکور"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1169> a lawd:Place ;
+	rdfs:label "FASUL"@tr , "فصول"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/424> a lawd:Place ;
+	rdfs:label "FİLİBE"@tr , "فلبه"@ott , "Plovdiv"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q459" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1170> a lawd:Place ;
+	rdfs:label "FİZAN"@tr , "فزان"@ott , "Merzûk"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/1171> a lawd:Place ;
+	rdfs:label "FLORİNE"@tr , "فيلورينه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1172> a lawd:Place ;
+	rdfs:label "FÜLEK"@tr , "فولک"@ott , "Filek"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/323> a lawd:Place ;
+	rdfs:label "GABROVA"@tr , "غبرووه"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1558> a lawd:Place ;
+	rdfs:label "GAÇKA"@tr , "غاچقه"@ott , "Gaçko"@tr , "Metuhiye"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1173> a lawd:Place ;
+	rdfs:label "GADAMES"@tr , "غدامس"@ott , "Ghadmes"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/1174> a lawd:Place ;
+	rdfs:label "GALATA"@tr , "غلطه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1175> a lawd:Place ;
+	rdfs:label "GARBİYE"@tr , "غربيه"@ott , "Tanta"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1176> a lawd:Place ;
+	rdfs:label "GASTUNİ"@tr , "غاستونی"@ott , "Gastoune"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1177> a lawd:Place ;
+	rdfs:label "GAZİ KÂŞÂN"@tr , "غازی کاشان"@ott , "Kal‘a-i Gazi"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/425> a lawd:Place ;
+	rdfs:label "GAZİANTEP"@tr , "غازی عينتاب"@ott , "Ayntab"@tr , "Gazi Ayntab"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1178> a lawd:Place ;
+	rdfs:label "GAZZE"@tr , "غزّه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1179> a lawd:Place ;
+	rdfs:label "GEÇEVAN"@tr , "کچوان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/176> a lawd:Place ;
+	rdfs:label "GELİBOLU"@tr , "کليبولی"@ott , "Kalipolis"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q216907" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/608> a lawd:Place ;
+	rdfs:label "GELİBOLU"@tr , "کليبولی"@ott , "Kalipolis"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q216907" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/427> a lawd:Place ;
+	rdfs:label "GENÇ"@tr , "کنج"@ott , "Darahini"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/428> a lawd:Place ;
+	rdfs:label "GENCE"@tr , "کنجه"@ott , "Elisavetpol"@tr , "Krovâbâd"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1180> a lawd:Place ;
+	rdfs:label "GERGER-KÂHTA"@tr , "کرکر-کاحته"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1181> a lawd:Place ;
+	rdfs:label "GERMAT"@tr , "کرمات"@ott , "Gyarmat"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1182> a lawd:Place ;
+	rdfs:label "GEYLÂN"@tr , "کيلان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/126> a lawd:Place ;
+	rdfs:label "GİRİD"@tr , "کريد"@ott , "Kandiye, Hanya"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/1183> a lawd:Place ;
+	rdfs:label "GİRNE"@tr , "کيرنه"@ott , "Kerynia"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1184> a lawd:Place ;
+	rdfs:label "GÖKÇE"@tr , "کوکچه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1185> a lawd:Place ;
+	rdfs:label "Gol"@tr , "غول"@ott , "GOLAN"@tr , "Kunaytıra"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1186> a lawd:Place ;
+	rdfs:label "GÖLE"@tr , "کوله"@ott , "Merdenik"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1187> a lawd:Place ;
+	rdfs:label "GÖLE"@tr , "کوله"@ott , "Gyula"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1188> a lawd:Place ;
+	rdfs:label "GOLOS"@tr , "غلوس"@ott , "Volos"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1582> a lawd:Place ;
+	rdfs:label "GÖNYE"@tr , "کونيه"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/541> a lawd:Place ;
+	rdfs:label "GÖRDES"@tr , "کوردس"@ott , "Korithos"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q103011" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1189> a lawd:Place ;
+	rdfs:label "GÖRİCE"@tr , "کوريجه"@ott , "Korçe"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/163> .
+
+<http://ottgaz.org/places/1190> a lawd:Place ;
+	rdfs:label "GÖZLEVE"@tr , "کوزلوه"@ott , "Kozlow"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1191> a lawd:Place ;
+	rdfs:label "GÜMÜLCİNE"@tr , "کوملجنه"@ott , "Komotini"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/431> a lawd:Place ;
+	rdfs:label "GÜMÜŞ"@tr , "کموش"@ott ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/182> a lawd:Place ;
+	rdfs:label "GÜMÜŞHANE"@tr , "کموشخانه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/171> .
+
+<http://ottgaz.org/places/433> a lawd:Place ;
+	rdfs:label "GÜRCİSTAN"@tr , "کرجستان"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/128> a lawd:Place ;
+	rdfs:label "HABEŞ"@tr , "حبش"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/185> a lawd:Place ;
+	rdfs:label "HABEŞ ve CİDDE"@tr , "حبش وجده"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/1192> a lawd:Place ;
+	rdfs:label "HABUR"@tr , "خابور"@ott , "Harran"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1193> a lawd:Place ;
+	rdfs:label "HACREK"@tr , "حجرک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/186> a lawd:Place ;
+	rdfs:label "HAKKÂRİ"@tr , "حکاری"@ott , "Elbak=Başkale"@tr , "Çölemerik"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1194> a lawd:Place ;
+	rdfs:label "HAKKÂRİ"@tr , "حکاری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1195> a lawd:Place ;
+	rdfs:label "HAKKÂRİ maa VAN"@tr , "حکاری مع وان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/129> a lawd:Place ;
+	rdfs:label "HALEB"@tr , "حلب"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/611> a lawd:Place ;
+	rdfs:label "HALEB"@tr , "حلب"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q41183" .
+
+<http://ottgaz.org/places/1196> a lawd:Place ;
+	rdfs:label "HALMAŞ"@tr , "خالماش"@ott , "Almosd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/1197> a lawd:Place ;
+	rdfs:label "HAMA"@tr , "حما"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/188> a lawd:Place ;
+	rdfs:label "HAMİDÂBÂD"@tr , "حميد آباد"@ott , "Hamid"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1198> a lawd:Place ;
+	rdfs:label "HANÇOK"@tr , "خانچق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1199> a lawd:Place ;
+	rdfs:label "HANİKİN"@tr , "خانقين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/543> a lawd:Place ;
+	rdfs:label "HANYA"@tr , "حانيه"@ott , "Canea"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q182299" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/189> a lawd:Place ;
+	rdfs:label "HARAR"@tr , "حرار"@ott ;
+	ottgaz:type "Müdiriyet" .
+
+<http://ottgaz.org/places/1200> a lawd:Place ;
+	rdfs:label "HARİR"@tr , "حرير"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/130> a lawd:Place ;
+	rdfs:label "HARPUT"@tr , "خرپوت"@ott , "Harperut"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/613> a lawd:Place ;
+	rdfs:label "HARPUT"@tr , "خرپوت"@ott , "Harperut"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q8195601" .
+
+<http://ottgaz.org/places/1201> a lawd:Place ;
+	rdfs:label "Harran"@tr , "حران"@ott , "ALTINBAŞAK"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1202> a lawd:Place ;
+	rdfs:label "HARUR"@tr , "هرور"@ott , "Bâna"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/1559> a lawd:Place ;
+	rdfs:label "HASANKEYF"@tr , "حسن کيف"@ott , "Hısn-ı Keyfa"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/191> a lawd:Place ;
+	rdfs:label "HASKÖY"@tr , "خاصکوی"@ott , "Haskovo"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/192> a lawd:Place ;
+	rdfs:label "HATAY"@tr , "خطای"@ott , "Antakya"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1203> a lawd:Place ;
+	rdfs:label "Hatla"@tr , "خطله"@ott , "TAŞLICA"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1204> a lawd:Place ;
+	rdfs:label "HATVAN"@tr , "خطوان"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1583> a lawd:Place ;
+	rdfs:label "HAVRAN"@tr , "حوران"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1205> a lawd:Place ;
+	rdfs:label "Hazo"@tr , "هازو"@ott , "KOZLUK"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/193> a lawd:Place ;
+	rdfs:label "HEMEDÂN"@tr , "همدان"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1206> a lawd:Place ;
+	rdfs:label "HERBİL ve UTARİ"@tr , "هربيل وَ اوتاری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/194> a lawd:Place ;
+	rdfs:label "HERSEK"@tr , "هرسک"@ott , "Herzegovina"@tr , "Mostar"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/195> a lawd:Place ;
+	rdfs:label "HEZARGRAD"@tr , "هزارغراد"@ott , "Razgrad"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1208> a lawd:Place ;
+	rdfs:label "HEZARMARD"@tr , "هزارمارد"@ott , "Hezar-Merv"@tr , "Hazarud"@tr , "Harurmardûd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/132> a lawd:Place ;
+	rdfs:label "HİCAZ"@tr , "حجاز"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1209> a lawd:Place ;
+	rdfs:label "HİLLE"@tr , "حلّه"@ott , "El-Hille"@tr , "Camiayn"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1210> a lawd:Place ;
+	rdfs:label "HİLVAN"@tr , "حلوان"@ott , "Karacurun"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1560> a lawd:Place ;
+	rdfs:label "HİNDİYE"@tr , "هنديه"@ott , "Dobriç"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1561> a lawd:Place ;
+	rdfs:label "HINIS"@tr , "خنس"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1211> a lawd:Place ;
+	rdfs:label "HİSARCIK maa BELGRAD"@tr , "حصارجق مع بلغراد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/165> .
+
+<http://ottgaz.org/places/1212> a lawd:Place ;
+	rdfs:label "HİT maa ANA"@tr , "هيت مع عنه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1213> a lawd:Place ;
+	rdfs:label "HİZAN"@tr , "خيزان"@ott , "Aşağıkarasu"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1214> a lawd:Place ;
+	rdfs:label "Hırtuz"@tr , "خرتوس"@ott , "SARIÇİÇEK"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1604> a lawd:Place ;
+	rdfs:label "Hısn-ı Mansûr"@tr , "حصن منصور"@ott , "ADIYAMAN"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1215> a lawd:Place ;
+	rdfs:label "Hoçuvan"@tr , "خوچوان"@ott , "HASKÖY"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/1216> a lawd:Place ;
+	rdfs:label "HOLOK"@tr , "هولوق"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1217> a lawd:Place ;
+	rdfs:label "HORASAN"@tr , "خوراسان"@ott , "Tarik-i Horasan"@tr , "Ba‘kuba"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1218> a lawd:Place ;
+	rdfs:label "HORİN"@tr , "حورين"@ott , "Zül-Hûrân"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1219> a lawd:Place ;
+	rdfs:label "Hoşab"@tr , "خوش آب"@ott , "GÜZELSU"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/197> a lawd:Place ;
+	rdfs:label "HOTİN"@tr , "خوتين"@ott , "Hoçim"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/575> a lawd:Place ;
+	rdfs:label "HOZAT"@tr , "خوزات"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q1004584" ;
+	ottgaz:type "Köy" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/133> a lawd:Place ;
+	rdfs:label "HUDAVENDİGÂR"@tr , "خداوندکار"@ott , "Bursa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/199> a lawd:Place ;
+	rdfs:label "HUDEYDE"@tr , "حديده"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1220> a lawd:Place ;
+	rdfs:label "HUMUS"@tr , "حمص"@ott , "Hıms"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1221> a lawd:Place ;
+	rdfs:label "HUMUS"@tr , "خمس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/1562> a lawd:Place ;
+	rdfs:label "İBRAİL"@tr , "ابراءل"@ott , "Braila"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/123> .
+
+<http://ottgaz.org/places/1222> a lawd:Place ;
+	rdfs:label "İBRİM"@tr , "ابريم"@ott , "Kasr-ı İbrim"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/1223> a lawd:Place ;
+	rdfs:label "İÇİL"@tr , "ايچ ايل"@ott , "Kilikien"@tr , "Ermenek, Silifke"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/201> a lawd:Place ;
+	rdfs:label "IĞDIR"@tr , "ايغدير"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/1224> a lawd:Place ;
+	rdfs:label "İKLİM-İ SUDAN"@tr , "اقليم سودان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1225> a lawd:Place ;
+	rdfs:label "İMADİYE"@tr , "عماديه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1226> a lawd:Place ;
+	rdfs:label "İmerhev"@tr , "ايمه رخاو"@ott , "MEYDANCIK"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1227> a lawd:Place ;
+	rdfs:label "İNCİRAN"@tr , "انجران"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1228> a lawd:Place ;
+	rdfs:label "İNEBAHTI"@tr , "اينه بختی"@ott , "Navpaktos"@tr , "Epakhitos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1229> a lawd:Place ;
+	rdfs:label "İPEK"@tr , "ايپک"@ott , "Peç"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1563> a lawd:Place ;
+	rdfs:label "İSAKÇI"@tr , "ايساقجی"@ott , "Isaccea"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1230> a lawd:Place ;
+	rdfs:label "İSFAKYA"@tr , "اسفاکيه"@ott , "Sfakion"@tr , "Sultaniye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/202> a lawd:Place ;
+	rdfs:label "İskele"@tr , "اسکله"@ott ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1231> a lawd:Place ;
+	rdfs:label "İSKENDERİYE"@tr , "اسکندريه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/135> a lawd:Place ;
+	rdfs:label "İŞKODRA"@tr , "اشقودره"@ott , "İskenderiye"@tr , "اسکندريه"@ott , "Shkoder"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/615> a lawd:Place ;
+	rdfs:label "İŞKODRA"@tr , "اشقودره"@ott , "İskenderiye"@tr , "اسکندريه"@ott , "Shkoder"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q131638" .
+
+<http://ottgaz.org/places/1232> a lawd:Place ;
+	rdfs:label "İŞLENKÖY"@tr , "اشلنکوی"@ott , "Sölyomkö"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/204> a lawd:Place ;
+	rdfs:label "İSLİMİYE"@tr , "اسليميه"@ott , "Sliven"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1233> a lawd:Place ;
+	rdfs:label "İSNA"@tr , "اسنا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/205> a lawd:Place ;
+	rdfs:label "ISPARTA"@tr , "اسپارطه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q171031" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1234> a lawd:Place ;
+	rdfs:label "İspayrıt"@tr , "اسپايرت"@ott , "Uçum"@tr , "SÜRÜCÜLER"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1600> a lawd:Place ;
+	rdfs:label "İSPİR"@tr , "اسپير"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/500> a lawd:Place ;
+	rdfs:label "İSTANBUL"@tr , "استانبول"@ott ;
+	ottgaz:type "Başkent" .
+
+<http://ottgaz.org/places/1235> a lawd:Place ;
+	rdfs:label "İSTANKÖY"@tr , "استانکوی"@ott , "Ko"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/1236> a lawd:Place ;
+	rdfs:label "İSTOLNİ"@tr , "استولنی"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1237> a lawd:Place ;
+	rdfs:label "İSTOLNİBELGRAD"@tr , "استولنی بلغراد"@ott , "Szekesfehervar"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1239> a lawd:Place ;
+	rdfs:label "İZLOCZON"@tr , "ازلوقزون"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/570> a lawd:Place ;
+	rdfs:label "İZMİR"@tr , "ازمير"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q35997" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1564> a lawd:Place ;
+	rdfs:label "İZMİT"@tr , "ازميد"@ott , "İznikmid"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q129649" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1240> a lawd:Place ;
+	rdfs:label "İZNOPOL"@tr , "ايزنوپول"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1241> a lawd:Place ;
+	rdfs:label "İZVORNİK"@tr , "ايزوورنيک"@ott , "Zvornik"@tr , "Tuzla-i Zîr"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1242> a lawd:Place ;
+	rdfs:label "KAÇNAT"@tr , "قاچناط"@ott , "Facset"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1243> a lawd:Place ;
+	rdfs:label "KAĞIZMAN"@tr , "قاغزمان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/546> a lawd:Place ;
+	rdfs:label "KAHİRE"@tr , "قاهره"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q85" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1244> a lawd:Place ;
+	rdfs:label "KAHLAN"@tr , "کحلان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1245> a lawd:Place ;
+	rdfs:label "KÂHTA-GERGER"@tr , "کاخته – کرکر"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1246> a lawd:Place ;
+	rdfs:label "KAL‘A-İ LOTRE"@tr , "قلعهء لتره"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/511> a lawd:Place ;
+	rdfs:label "KAL‘ATÜ’R-REMAD"@tr , "قلعة الرماد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q192961" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1247> a lawd:Place ;
+	rdfs:label "KALYûBİYE"@tr , "قليوبيه"@ott , "Benhalasel"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/207> a lawd:Place ;
+	rdfs:label "KAMANİÇE"@tr , "قمانيچه"@ott , "Komanec Podolskij"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1248> a lawd:Place ;
+	rdfs:label "KÂN-İ BAZİ"@tr , "کانی بازی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/549> a lawd:Place ;
+	rdfs:label "KANDİYE"@tr , "قنديه"@ott , "Heraklion"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q160544" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/136> a lawd:Place ;
+	rdfs:label "KANİJE"@tr , "قانيژه"@ott , "Kanice"@tr , "Naki Kanice"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/616> a lawd:Place ;
+	rdfs:label "KANİJE"@tr , "قانيژه"@ott , "Kanice"@tr , "Naki Kanice"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q14424" .
+
+<http://ottgaz.org/places/1249> a lawd:Place ;
+	rdfs:label "KAPOSVAR"@tr , "قاپوسوار"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/137> a lawd:Place ;
+	rdfs:label "KAPTANPAŞA"@tr , "قپودان پاشا"@ott , "C. Bahrisefid"@tr , "Gelibolu"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1250> a lawd:Place ;
+	rdfs:label "KARAÂMİD"@tr , "قره آمد"@ott , "Âmid"@tr , "DİYARBAKIR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/210> a lawd:Place ;
+	rdfs:label "KARABAĞ"@tr , "قره باغ"@ott , "Yelisavtopol"@tr , "Gence"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1251> a lawd:Place ;
+	rdfs:label "KARAÇOLAN maa ŞEHRBÂZÂR"@tr , "قره چولان مع شهربازار"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/212> a lawd:Place ;
+	rdfs:label "KARADAĞ"@tr , "قره طاغ"@ott , "Crno-Gora"@tr , "Nevâhi-i Erbaa"@tr , "Padgoriçe=Titograd"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1252> a lawd:Place ;
+	rdfs:label "KARADAĞ maa ZERDÂBÂB"@tr , "قره طاغ مع زردآباد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1253> a lawd:Place ;
+	rdfs:label "KARADASNİ"@tr , "قره داسنی"@ott , "Karadasni ve Budasni"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/213> a lawd:Place ;
+	rdfs:label "Karahisar-ı Sahib"@tr , "قره حصار صاحب"@ott , "Afyon"@tr , "AFYONKARAHİSAR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1254> a lawd:Place ;
+	rdfs:label "Karahisar-ı Şarkî"@tr , "قره حصار شرقی"@ott , "Karahisar-ı Hasan Dıraz"@tr , "ŞEBİNKARAHİSAR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1255> a lawd:Place ;
+	rdfs:label "KARAİSALI"@tr , "قره عيسالو"@ott , "Çeçeli"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/214> a lawd:Place ;
+	rdfs:label "Karakilise"@tr , "قره کليسه"@ott , "KARAKÖSE"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/215> a lawd:Place ;
+	rdfs:label "KARAKÖSE"@tr , "قره کوسه"@ott , "Karakilise"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/139> a lawd:Place ;
+	rdfs:label "KARAMAN"@tr , "قره مان"@ott , "Lârende"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/1256> a lawd:Place ;
+	rdfs:label "KARATAŞ"@tr , "قره طاش"@ott , "İskele"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/217> a lawd:Place ;
+	rdfs:label "KARESİ"@tr , "قره سی"@ott , "Balıkesir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1257> a lawd:Place ;
+	rdfs:label "KARKAR"@tr , "کارکار"@ott , "Daldere"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1258> a lawd:Place ;
+	rdfs:label "KARKAR maa MÜKÜS"@tr , "کارکار مع مکس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1259> a lawd:Place ;
+	rdfs:label "KARLIİLİ"@tr , "قارلی ايلی"@ott , "Arta"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/140> a lawd:Place ;
+	rdfs:label "KARS"@tr , "قارص"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/617> a lawd:Place ;
+	rdfs:label "KARS"@tr , "قارص"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q127063" .
+
+<http://ottgaz.org/places/1260> a lawd:Place ;
+	rdfs:label "KASÎM"@tr , "قصيم"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/108> .
+
+<http://ottgaz.org/places/512> a lawd:Place ;
+	rdfs:label "KASR-I YİFRÎN"@tr , "قصريفرين"@ott , "Kasr-ı Cebel"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q1018215" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/141> a lawd:Place ;
+	rdfs:label "KASTAMONU"@tr , "قسطمونی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/618> a lawd:Place ;
+	rdfs:label "KASTAMONU"@tr , "قسطمونی"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q155915" .
+
+<http://ottgaz.org/places/1261> a lawd:Place ;
+	rdfs:label "KATAR"@tr , "قطر"@ott , "El-Bedâ"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1262> a lawd:Place ;
+	rdfs:label "KATIYA"@tr , "قاطيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1263> a lawd:Place ;
+	rdfs:label "KAVALA"@tr , "قواله"@ott , "Kavalla"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/220> a lawd:Place ;
+	rdfs:label "KAYSERİ"@tr , "قيصريه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/1264> a lawd:Place ;
+	rdfs:label "KAZA-YI ERBAA"@tr , "قضای اربعه"@ott , "Terkos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/1265> a lawd:Place ;
+	rdfs:label "KAZANİYE"@tr , "قزانيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/322> a lawd:Place ;
+	rdfs:label "KEBAN"@tr , "کبان"@ott , "Keban Madeni"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/143> a lawd:Place ;
+	rdfs:label "KEFE"@tr , "کفه"@ott , "Cafia"@tr , "Teodosya"@tr , "Feodosya"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1266> a lawd:Place ;
+	rdfs:label "KEMAH"@tr , "کماخ"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1267> a lawd:Place ;
+	rdfs:label "KEMİNVAR"@tr , "کمينوار"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/222> a lawd:Place ;
+	rdfs:label "Kengırı"@tr , "کنغری"@ott , "ÇANKIRI"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1268> a lawd:Place ;
+	rdfs:label "KERBELÂ"@tr , "کربلا"@ott , "Meşhed-i Hüseyin"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1269> a lawd:Place ;
+	rdfs:label "KERÇ"@tr , "کرچ"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/572> a lawd:Place ;
+	rdfs:label "KEREK"@tr , "کرک"@ott , "Karak"@tr , "Karak-ı Nuh Nebi"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q31572" ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1270> a lawd:Place ;
+	rdfs:label "KEREND"@tr , "کرند"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/550> a lawd:Place ;
+	rdfs:label "KERKÜK"@tr , "کرکوک"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q173310" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1584> a lawd:Place ;
+	rdfs:label "KESKİN"@tr , "کسکين"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
+
+<http://ottgaz.org/places/1271> a lawd:Place ;
+	rdfs:label "KESRİYE"@tr , "کسريه"@ott , "Kastoria"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/174> .
+
+<http://ottgaz.org/places/1272> a lawd:Place ;
+	rdfs:label "KESTANE"@tr , "کستانه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1273> a lawd:Place ;
+	rdfs:label "KEVKEBAN"@tr , "کوکبان"@ott , "Tavila"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1274> a lawd:Place ;
+	rdfs:label "KIBLE"@tr , "قبله"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/223> a lawd:Place ;
+	rdfs:label "KIBRIS"@tr , "قبريس"@ott , "Lefkoşe"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1275> a lawd:Place ;
+	rdfs:label "KİFRİ"@tr , "کفری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1276> a lawd:Place ;
+	rdfs:label "KİĞI"@tr , "کيغی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1277> a lawd:Place ;
+	rdfs:label "KİLİ"@tr , "کيلی"@ott , "Kilija"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1278> a lawd:Place ;
+	rdfs:label "KİLİCAVİ"@tr , "کلی جاوی"@ott , "Kiglicavi"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/224> a lawd:Place ;
+	rdfs:label "KİLİS"@tr , "کليس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/1279> a lawd:Place ;
+	rdfs:label "KİLİS"@tr , "کليس"@ott , "Klis, Cilissa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1280> a lawd:Place ;
+	rdfs:label "KİLİS maa TRAVNİK"@tr , "کليس مع تراونيک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1281> a lawd:Place ;
+	rdfs:label "KINA"@tr , "قنا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/225> a lawd:Place ;
+	rdfs:label "KIRIKKALE"@tr , "قريق قلعه"@ott , "Kırık"@tr ;
+	ottgaz:type "Köy" .
+
+<http://ottgaz.org/places/226> a lawd:Place ;
+	rdfs:label "KIRIM"@tr , "قريم"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1282> a lawd:Place ;
+	rdfs:label "KIRKA"@tr , "قرقه"@ott , "Licca"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1283> a lawd:Place ;
+	rdfs:label "KIRKLARELİ"@tr , "قرق کليسا"@ott , "Kırkkilise"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/227> a lawd:Place ;
+	rdfs:label "KIRŞEHİR"@tr , "قير شهری"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
+
+<http://ottgaz.org/places/1284> a lawd:Place ;
+	rdfs:label "KİSAMO"@tr , "کيسامو"@ott , "Kastellion"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/551> a lawd:Place ;
+	rdfs:label "KİŞNEF"@tr , "کيشنف"@ott , "Kiechenev"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q21197" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/1285> a lawd:Place ;
+	rdfs:label "KIZILCA"@tr , "قزيلجه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1286> a lawd:Place ;
+	rdfs:label "KOCAELİ"@tr , "قوجه ايلی"@ott , "İznikmid"@tr , "İzmit"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1287> a lawd:Place ;
+	rdfs:label "Koçkiri"@tr , "قوچ کيری"@ott , "ZARA"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/228> a lawd:Place ;
+	rdfs:label "Konûrâbâd"@tr , "قوگور آباد"@ott , "DÜZCE"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1290> a lawd:Place ;
+	rdfs:label "Konurapa"@tr , "قوگور آپا"@ott , "BOLU"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/144> a lawd:Place ;
+	rdfs:label "KONYA"@tr , "قونيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/620> a lawd:Place ;
+	rdfs:label "KONYA"@tr , "قونيه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q79857" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/1291> a lawd:Place ;
+	rdfs:label "KOPAN"@tr , "قوپان"@ott , "Koppany"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1292> a lawd:Place ;
+	rdfs:label "KORLADİK"@tr , "کورلادک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1293> a lawd:Place ;
+	rdfs:label "KORON"@tr , "قورون"@ott , "Korone"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/145> a lawd:Place ;
+	rdfs:label "KOSOVA"@tr , "قوصوه"@ott , "Priştine"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/145> .
+
+<http://ottgaz.org/places/1565> a lawd:Place ;
+	rdfs:label "KÖSTENCE"@tr , "کوستنجه"@ott , "Costanta"@tr , "Koustanitza"@tr , "Tekfurgölü"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/231> a lawd:Place ;
+	rdfs:label "KÖSTENDİL"@tr , "کوستنديل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1294> a lawd:Place ;
+	rdfs:label "KÖSTENDİL"@tr , "کوستنديل"@ott , "Kyustendil"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1295> a lawd:Place ;
+	rdfs:label "KOTOR"@tr , "قطور"@ott , "Kotar"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1296> a lawd:Place ;
+	rdfs:label "KOTUR"@tr , "قطور"@ott , "Vâdi-i Beni Kotur"@tr , "Vâdi-i Kotur"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1297> a lawd:Place ;
+	rdfs:label "KÖYSANCAK"@tr , "کويسنجاق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1298> a lawd:Place ;
+	rdfs:label "KOZAN"@tr , "قوزان"@ott , "SİS"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1299> a lawd:Place ;
+	rdfs:label "Kroşevaç"@tr , "قروشواچ"@ott , "Krouchevatz"@tr , "ALACAHİSAR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/165> .
+
+<http://ottgaz.org/places/1300> a lawd:Place ;
+	rdfs:label "KRUPA"@tr , "قروپه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1301> a lawd:Place ;
+	rdfs:label "KÜÇÜKARDAHAN"@tr , "کوچک آردهان"@ott , "Ardahan-ı Kuçek"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/1302> a lawd:Place ;
+	rdfs:label "KÜÇÜKÇEKMECE"@tr , "کوچک چکمجه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/232> a lawd:Place ;
+	rdfs:label "KUDÜS"@tr , "قدس"@ott , "Kuds-i Şerif"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1303> a lawd:Place ;
+	rdfs:label "KULABOŞ"@tr , "قولابوش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1304> a lawd:Place ;
+	rdfs:label "KULP"@tr , "قولب"@ott , "Pasor"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/513> a lawd:Place ;
+	rdfs:label "KUNEYTİRE"@tr , "قنيطره"@ott , "El-Kuneytire"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q576368" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1305> a lawd:Place ;
+	rdfs:label "KÜŞAF"@tr , "کشاف"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1306> a lawd:Place ;
+	rdfs:label "KUSAYR"@tr , "قصير"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/179> a lawd:Place ;
+	rdfs:label "KÜTAHYA"@tr , "کوتاهيه"@ott , "Germiyan"@tr , "کرميان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/610> a lawd:Place ;
+	rdfs:label "KÜTAHYA"@tr , "کوتاهيه"@ott , "Germiyan"@tr , "کرميان"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q188894" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/233> a lawd:Place ;
+	rdfs:label "KUTAYİS"@tr , "قوتاييس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q172415" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1594> a lawd:Place ;
+	rdfs:label "KUVEYT"@tr , "کويت"@ott ;
+	ottgaz:type "Kasaba" .
+
+<http://ottgaz.org/places/1585> a lawd:Place ;
+	rdfs:label "Kuzucan"@tr , "قوزيجان"@ott , "PÜLÜMÜR"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/553> a lawd:Place ;
+	rdfs:label "LAMYA"@tr , "لاميا"@ott , "Zeytün"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q192980" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/514> a lawd:Place ;
+	rdfs:label "LÂRENDE"@tr , "لارنده"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q262579" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/554> a lawd:Place ;
+	rdfs:label "LARİSSA"@tr , "لاريسه"@ott , "Yenişehir"@tr , "يکی شهر"@ott , "Yenişehir Fener"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q178405" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/1308> a lawd:Place ;
+	rdfs:label "LAŞİD"@tr , "لاشيد"@ott , "Lassithi"@tr , "Yenişehir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/1309> a lawd:Place ;
+	rdfs:label "LAZİSTAN"@tr , "لازستان"@ott , "Batum, Rize"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/171> .
+
+<http://ottgaz.org/places/1566> a lawd:Place ;
+	rdfs:label "Lazkiye"@tr , "لازقيه"@ott , "Lâdik"@tr , "DENİZLİ"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1586> a lawd:Place ;
+	rdfs:label "LAZKİYE"@tr , "لازقيه"@ott , "Cebele"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1310> a lawd:Place ;
+	rdfs:label "LEBLİZ"@tr , "لبليز"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1311> a lawd:Place ;
+	rdfs:label "LECCUN"@tr , "لجون"@ott , "Horvat Kefer Otnay"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/555> a lawd:Place ;
+	rdfs:label "LEFKOŞE"@tr , "لفقوشه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3856" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/1312> a lawd:Place ;
+	rdfs:label "LESKOVİK"@tr , "لسقويک"@ott , "Liaskowiki"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1313> a lawd:Place ;
+	rdfs:label "LİMNİ"@tr , "لمنی"@ott , "Limnos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/1314> a lawd:Place ;
+	rdfs:label "LİPOVA"@tr , "ليپوه"@ott , "Lippa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/234> a lawd:Place ;
+	rdfs:label "LİVADİYE"@tr , "ليواديه"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1602> a lawd:Place ;
+	rdfs:label "LİVÂNE ve NISF-I LİVÂNE"@tr , "ليوانه وَ نصف ليوانه"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/235> a lawd:Place ;
+	rdfs:label "LOFÇA"@tr , "لوفچه"@ott , "Loveç"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1315> a lawd:Place ;
+	rdfs:label "LOGOŞ"@tr , "لوغوش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1316> a lawd:Place ;
+	rdfs:label "LOM"@tr , "لوم"@ott , "Lom Palanka"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q237254" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1317> a lawd:Place ;
+	rdfs:label "Lori"@tr , "لوری"@ott , "YOKUŞDİBİ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/236> a lawd:Place ;
+	rdfs:label "LORİSTAN"@tr , "لورستان"@ott , "Hurremâbâd"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1318> a lawd:Place ;
+	rdfs:label "LOVE"@tr , "لوه"@ott , "Leva"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1319> a lawd:Place ;
+	rdfs:label "LÜBNAN"@tr , "لبنان"@ott , "Cebelilübnan"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1587> a lawd:Place ;
+	rdfs:label "MA‘AN"@tr , "معان"@ott , "Kerek"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1320> a lawd:Place ;
+	rdfs:label "MA’RİB"@tr , "مَأرب"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/237> a lawd:Place ;
+	rdfs:label "Maadin"@tr , "معادن"@ott , "KEBAN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/130> .
+
+<http://ottgaz.org/places/1601> a lawd:Place ;
+	rdfs:label "MAARRETÜNNUMAN"@tr , "معارة النعمان"@ott , "Maarre"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1321> a lawd:Place ;
+	rdfs:label "Maçahel"@tr , "ماچه خل"@ott , "CAMİLİ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1588> a lawd:Place ;
+	rdfs:label "MAÇKA"@tr , "ماچقه"@ott , "Cevizlik"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/238> a lawd:Place ;
+	rdfs:label "MADEN"@tr , "معدن"@ott , "Erganimadeni"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1322> a lawd:Place ;
+	rdfs:label "MAGOSA"@tr , "ماغوسه"@ott , "Famagosta"@tr , "فاماغوسته"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q193190" ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/239> a lawd:Place ;
+	rdfs:label "MALATYA"@tr , "ملاطيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1323> a lawd:Place ;
+	rdfs:label "MALATYA"@tr , "ملاطيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1324> a lawd:Place ;
+	rdfs:label "MALATYA maa HARPUT"@tr , "ملاطيه مع خرپوت"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/130> .
+
+<http://ottgaz.org/places/1325> a lawd:Place ;
+	rdfs:label "MALAZGİRT"@tr , "ملازکرد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/240> a lawd:Place ;
+	rdfs:label "Mamûre"@tr , "معموره"@ott , "SİVAS"@tr ;
+	ottgaz:type "Vilâyet" .
+
+<http://ottgaz.org/places/147> a lawd:Place ;
+	rdfs:label "MAMÛRETÜLAZİZ"@tr , "معمورة العزيز"@ott , "Elaziz, Elazık"@tr , "العزيز"@ott , "ELÂZIĞ"@tr , "Mezraa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/148> a lawd:Place ;
+	rdfs:label "MANASTIR"@tr , "مناستر"@ott , "Bitola"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/622> a lawd:Place ;
+	rdfs:label "MANASTIR"@tr , "مناستر"@ott , "Bitola"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q157246" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1326> a lawd:Place ;
+	rdfs:label "MANGUT"@tr , "مانقت"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/243> a lawd:Place ;
+	rdfs:label "MANİSA"@tr , "مغنيسا"@ott , "Saruhan"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1327> a lawd:Place ;
+	rdfs:label "MANYA"@tr , "مانيا"@ott , "Magne, Maina"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/244> a lawd:Place ;
+	rdfs:label "Maraş"@tr , "مرعش"@ott , "KAHRAMANMARAŞ"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q134703" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
+
+<http://ottgaz.org/places/1328> a lawd:Place ;
+	rdfs:label "MARDİN"@tr , "ماردين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1329> a lawd:Place ;
+	rdfs:label "MAZGİRT"@tr , "مازکرد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1330> a lawd:Place ;
+	rdfs:label "MECİDİYE"@tr , "مجيديه"@ott , "Megidiye"@tr , "Medgidia"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/556> a lawd:Place ;
+	rdfs:label "MEDİNE"@tr , "مدينه"@ott , "Yesrib"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q35484" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/1331> a lawd:Place ;
+	rdfs:label "MEHDİYE"@tr , "مهديه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/1332> a lawd:Place ;
+	rdfs:label "MEHTİYE"@tr , "مهتيه"@ott , "Andira, Andros"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/1333> a lawd:Place ;
+	rdfs:label "MEKKE-İ MÜKERREME"@tr , "مکهء مکرمه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q5806" ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1589> a lawd:Place ;
+	rdfs:label "MENBİÇ"@tr , "منبيچ"@ott , "Münbi."@tr , "Karamelik"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1567> a lawd:Place ;
+	rdfs:label "MENDELİ"@tr , "مندلی"@ott , "Diyale"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1334> a lawd:Place ;
+	rdfs:label "MENFELUT"@tr , "منفلوط"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/245> a lawd:Place ;
+	rdfs:label "MENTEŞE"@tr , "منتشا"@ott , "Balat, Muğla"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1335> a lawd:Place ;
+	rdfs:label "MENUFİYE"@tr , "منوفيه"@ott , "Şib.nü’l-kavm"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1568> a lawd:Place ;
+	rdfs:label "MENZİLE"@tr , "منزله"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/246> a lawd:Place ;
+	rdfs:label "MERÂGA"@tr , "مراغه"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1336> a lawd:Place ;
+	rdfs:label "MERİVAN"@tr , "مريوان"@ott , "Mihrevan,Mihriban"@tr , "Kal‘a-i Mervan"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1337> a lawd:Place ;
+	rdfs:label "MERKÂVE"@tr , "مرکاوه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/247> a lawd:Place ;
+	rdfs:label "MERSİN"@tr , "مرسين"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q134291" ;
+	ottgaz:type "Köy" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/1338> a lawd:Place ;
+	rdfs:label "MERZİFON"@tr , "مرزيفون"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/516> a lawd:Place ;
+	rdfs:label "MERZÛK"@tr , "مرزوق"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q526822" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1339> a lawd:Place ;
+	rdfs:label "Meşhed-i Hüseyin"@tr , "مشهد حسين"@ott , "KERBELÂ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1340> a lawd:Place ;
+	rdfs:label "Meyafarikîn"@tr , "ميا فارقين"@ott , "SİLVAN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1341> a lawd:Place ;
+	rdfs:label "MEYDANCIK"@tr , "ميدانجق"@ott , "İmerhev"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/557> a lawd:Place ;
+	rdfs:label "MEZRAA"@tr , "مزرعه"@ott , "Ağavat mezraası"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q174060" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/130> .
+
+<http://ottgaz.org/places/1342> a lawd:Place ;
+	rdfs:label "Micingird"@tr , "مجينکرد"@ott , "Micingird-i Ulyâ"@tr , "ÇAMYAZI"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/1343> a lawd:Place ;
+	rdfs:label "MİDİLLİ"@tr , "مدللی"@ott , "Mytilene, Lesvos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1344> a lawd:Place ;
+	rdfs:label "Mihrani"@tr , "مهرانی"@ott , "ÜLGEN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/517> a lawd:Place ;
+	rdfs:label "MİNE maa TRABLUS"@tr , "مينه مع طرابلوس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3777059" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1569> a lawd:Place ;
+	rdfs:label "MİNYE"@tr , "منيه"@ott , "El-Minye"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/558> a lawd:Place ;
+	rdfs:label "MİSİLONKİ"@tr , "ميسولونکی"@ott , "Missolonghi"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q642810" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/149> a lawd:Place ;
+	rdfs:label "MISIR"@tr , "مصر"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1345> a lawd:Place ;
+	rdfs:label "Misis"@tr , "مسيس"@ott , "YAKAPINAR"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/1346> a lawd:Place ;
+	rdfs:label "MİSİSTRE"@tr , "مسيستره"@ott , "Mystras"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1347> a lawd:Place ;
+	rdfs:label "Mizistre"@tr , "ميسيستره"@ott , "ISPARTA"@tr , "اسپارطه"@ott , "Mistra"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2308046" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1348> a lawd:Place ;
+	rdfs:label "MODON"@tr , "مدون"@ott , "Moton"@tr , "Methone"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q998805" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/1349> a lawd:Place ;
+	rdfs:label "MOHAÇ"@tr , "مهاج"@ott , "Mohaetz"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/150> a lawd:Place ;
+	rdfs:label "MORA"@tr , "موره"@ott , "Peloponnes"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1350> a lawd:Place ;
+	rdfs:label "MORAVA"@tr , "موراوه"@ott , "Moldova"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/518> a lawd:Place ;
+	rdfs:label "MOSTAR"@tr , "موستار"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q93347" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/250> a lawd:Place ;
+	rdfs:label "MUĞLA"@tr , "مغله"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q216912" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1351> a lawd:Place ;
+	rdfs:label "MUHA"@tr , "مخا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1352> a lawd:Place ;
+	rdfs:label "Müküs"@tr , "مکس"@ott , "BAHÇESARAY"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1353> a lawd:Place ;
+	rdfs:label "MÜNTEFİK"@tr , "منتفق"@ott , "Nasıriye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1354> a lawd:Place ;
+	rdfs:label "MUŞ"@tr , "موش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1355> a lawd:Place ;
+	rdfs:label "MUSAVVA‘"@tr , "مصوع"@ott , "Cezire-i Musavva"@tr , "Masavva"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/152> a lawd:Place ;
+	rdfs:label "MUSUL"@tr , "موصل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/623> a lawd:Place ;
+	rdfs:label "MUSUL"@tr , "موصل"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q83317" .
+
+<http://ottgaz.org/places/1356> a lawd:Place ;
+	rdfs:label "MUTAHHAR İbn-i İMAM"@tr , "مطهر ابن امام"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1590> a lawd:Place ;
+	rdfs:label "NABLUS"@tr , "نابلوس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q214178" ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1357> a lawd:Place ;
+	rdfs:label "NADAZ"@tr , "نداز"@ott , "Nadasa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/252> a lawd:Place ;
+	rdfs:label "NAHCİVAN"@tr , "نخجوان"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1358> a lawd:Place ;
+	rdfs:label "NAKSOS"@tr , "ناقسوس"@ott , "Nakşa"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/1359> a lawd:Place ;
+	rdfs:label "Namrevan"@tr , "نام روان"@ott , "NARMAN"@tr , "Îd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/1360> a lawd:Place ;
+	rdfs:label "NARDE"@tr , "نارده"@ott , "Narta"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1361> a lawd:Place ;
+	rdfs:label "NARMAN"@tr , "نارمان"@ott , "Namrevan"@tr , "Îd"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/519> a lawd:Place ;
+	rdfs:label "NASIRİYE"@tr , "ناصريه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q38811" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/108> .
+
+<http://ottgaz.org/places/1362> a lawd:Place ;
+	rdfs:label "NAVARİN"@tr , "ناوارين"@ott , "Neokastron"@tr , "Pylos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1363> a lawd:Place ;
+	rdfs:label "NECİD"@tr , "نجد"@ott , "Necd-i Şarkî"@tr , "El-Hufûf"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1364> a lawd:Place ;
+	rdfs:label "NEVÂHİ-İ ERBAA"@tr , "نواحيئ اربعه"@ott , "Terkos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/253> a lawd:Place ;
+	rdfs:label "NEVŞEHİR"@tr , "نوشهر"@ott , "Muşgara"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/1365> a lawd:Place ;
+	rdfs:label "NİĞBOLU"@tr , "نيکبولی"@ott , "Nikopol"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/254> a lawd:Place ;
+	rdfs:label "NİĞDE"@tr , "نيکده"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1366> a lawd:Place ;
+	rdfs:label "NİKSAR ve SONİSA"@tr , "نيکسار وَ صونيسه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/153> a lawd:Place ;
+	rdfs:label "NİŞ"@tr , "نيش"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/153> .
+
+<http://ottgaz.org/places/1367> a lawd:Place ;
+	rdfs:label "NISF-I LİVANE"@tr , "نصف لوانه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1368> a lawd:Place ;
+	rdfs:label "NOVİGRAD"@tr , "نووغراد"@ott , "Nograd"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1369> a lawd:Place ;
+	rdfs:label "NUSAYBİN"@tr , "نصيبين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/256> a lawd:Place ;
+	rdfs:label "OÇAKOF"@tr , "اوچاقوف"@ott , "ÖZÜ"@tr , "Otchakov"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1370> a lawd:Place ;
+	rdfs:label "OHRİ"@tr , "اوخری"@ott , "Ohrid"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1371> a lawd:Place ;
+	rdfs:label "OLTU"@tr , "اولتی"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q915429" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/257> a lawd:Place ;
+	rdfs:label "Onikidivan"@tr , "اون ايکی ديوان"@ott , "BARTIN"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1372> a lawd:Place ;
+	rdfs:label "ORAN"@tr , "اوران"@ott , "Vehran"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/117> .
+
+<http://ottgaz.org/places/1595> a lawd:Place ;
+	rdfs:label "ORDU"@tr , "اردو"@ott , "Bayramlı"@tr , "Eskipazar"@tr ;
+	ottgaz:type "Kaza" .
+
+<http://ottgaz.org/places/1373> a lawd:Place ;
+	rdfs:label "ORUMAN"@tr , "اورومان"@ott , "Abruman, Hauraman"@tr , "Şehr-i Oruman"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1374> a lawd:Place ;
+	rdfs:label "OSÇA"@tr , "اوسچه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1375> a lawd:Place ;
+	rdfs:label "ÖSEK"@tr , "اوسک"@ott , "Osijek"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1376> a lawd:Place ;
+	rdfs:label "OSMANCIK"@tr , "عثمانجق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/580> a lawd:Place ;
+	rdfs:label "OSMANİYE"@tr , "عثمانيه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q181379" ;
+	ottgaz:type "Köy" ;
+	dcterms:isPartOf <http://ottgaz.org/places/100> .
+
+<http://ottgaz.org/places/1603> a lawd:Place ;
+	rdfs:label "OSMANPAZARI"@tr , "عثمان بازاری"@ott , "Omurtag"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/258> a lawd:Place ;
+	rdfs:label "ÖSTÖRGOM"@tr , "استرغوم"@ott , "Esztergom"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/577> a lawd:Place ;
+	rdfs:label "OVACIK"@tr , "اووه جق"@ott , "Pulur"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q963947" ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1377> a lawd:Place ;
+	rdfs:label "OVACIK"@tr , "اووه جق"@ott , "Öçek"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/259> a lawd:Place ;
+	rdfs:label "ÖZÜ"@tr , "اوزی"@ott , "Ocakov"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1378> a lawd:Place ;
+	rdfs:label "PAK"@tr , "پاق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1379> a lawd:Place ;
+	rdfs:label "PALANKA"@tr , "پلانقه"@ott , "Lom Palanka"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1380> a lawd:Place ;
+	rdfs:label "PALANKÂN"@tr , "پلانکان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1381> a lawd:Place ;
+	rdfs:label "PALU"@tr , "پالو"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1382> a lawd:Place ;
+	rdfs:label "PAMMEZ"@tr , "پامز"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/1383> a lawd:Place ;
+	rdfs:label "PAPA"@tr , "پا پا"@ott , "Pap"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1384> a lawd:Place ;
+	rdfs:label "PASİNLER"@tr , "پاسينلر"@ott , "Pasin-i Ulyâ"@tr , "Hasankale"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/520> a lawd:Place ;
+	rdfs:label "Payas"@tr , "پياس"@ott , "YAKACIK"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2674278" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/260> a lawd:Place ;
+	rdfs:label "PAZARCIK"@tr , "پازارجق"@ott , "Tatarpazarcığı"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1385> a lawd:Place ;
+	rdfs:label "PEÇ"@tr , "پچ"@ott , "Pec"@tr , "İpek"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1386> a lawd:Place ;
+	rdfs:label "PEÇUY"@tr , "پچوی"@ott , "Pecs"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1387> a lawd:Place ;
+	rdfs:label "PENEK"@tr , "پنک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1388> a lawd:Place ;
+	rdfs:label "PERTEK"@tr , "پرتک"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q990298" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1389> a lawd:Place ;
+	rdfs:label "PESYEYURYAN"@tr , "پسيه يوريان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1390> a lawd:Place ;
+	rdfs:label "Petekrek"@tr , "پتکرک"@ott , "Peterek"@tr , "ÇEVRELİ"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1391> a lawd:Place ;
+	rdfs:label "PİRGOS"@tr , "پيرغوس"@ott , "Pyrgos"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/150> .
+
+<http://ottgaz.org/places/1392> a lawd:Place ;
+	rdfs:label "PİRZAMİSİL"@tr , "پرزميسل"@ott , "Premysl"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/561> a lawd:Place ;
+	rdfs:label "PİTESTİ"@tr , "پيتستی"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q187938" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/123> .
+
+<http://ottgaz.org/places/261> a lawd:Place ;
+	rdfs:label "PLEVNE"@tr , "پلونه"@ott , "Pleven"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1393> a lawd:Place ;
+	rdfs:label "PORTSAİD"@tr , "پورت سعيد"@ott , "Bürsa’id"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1394> a lawd:Place ;
+	rdfs:label "Poşadi"@tr , "پوشادی"@ott , "Boşat"@tr , "BOYUNLU"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1395> a lawd:Place ;
+	rdfs:label "POSOF"@tr , "پوسخوف"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1396> a lawd:Place ;
+	rdfs:label "POZEGA"@tr , "پوزغا"@ott , "Posega"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1570> a lawd:Place ;
+	rdfs:label "PREVEZE"@tr , "پروزه"@ott , "Preveza"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1397> a lawd:Place ;
+	rdfs:label "PREVEZE maa NARDA"@tr , "پروزه مع نارده"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/533> a lawd:Place ;
+	rdfs:label "PRİŞTİNE"@tr , "پرشتنه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q25270" ;
+	ottgaz:type "Vilâyet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/145> .
+
+<http://ottgaz.org/places/1398> a lawd:Place ;
+	rdfs:label "PRİŞTİNE"@tr , "پرشتنه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1399> a lawd:Place ;
+	rdfs:label "PRİŞTİNE maa PRİZREN"@tr , "پرشتنه مع پرزرين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/174> .
+
+<http://ottgaz.org/places/262> a lawd:Place ;
+	rdfs:label "PRİZREN"@tr , "پرشتنه"@ott ;
+	ottgaz:type "Vilâyet" .
+
+<http://ottgaz.org/places/1400> a lawd:Place ;
+	rdfs:label "PRİZREN"@tr , "پرزرين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1401> a lawd:Place ;
+	rdfs:label "PRİZREN maa PRİŞTİNE"@tr , "پرزرين مع"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/174> .
+
+<http://ottgaz.org/places/1596> a lawd:Place ;
+	rdfs:label "PROVADİ"@tr , "پروادی"@ott , "Piri-vodi"@tr , "Provadiya"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/263> a lawd:Place ;
+	rdfs:label "Ra’nâ"@tr , "رعناء"@ott , "BASRA"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/108> .
+
+<http://ottgaz.org/places/1402> a lawd:Place ;
+	rdfs:label "RAHOVA"@tr , "راخوه"@ott , "Erjehovo"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1403> a lawd:Place ;
+	rdfs:label "RAHOVİÇE"@tr , "راخويچه"@ott , "Orahovice"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/264> a lawd:Place ;
+	rdfs:label "RAKKA"@tr , "رقه"@ott ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1404> a lawd:Place ;
+	rdfs:label "RAMAHİYE"@tr , "رماحيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/265> a lawd:Place ;
+	rdfs:label "RAZGRAD"@tr , "رازغراد"@ott , "Hezargrad"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1405> a lawd:Place ;
+	rdfs:label "REDA‘"@tr , "رداع"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/521> a lawd:Place ;
+	rdfs:label "REŞADİYE"@tr , "رشاديه"@ott , "Parga"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q851077" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/180> .
+
+<http://ottgaz.org/places/1406> a lawd:Place ;
+	rdfs:label "REŞİD"@tr , "رشيد"@ott , "Rosette"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1407> a lawd:Place ;
+	rdfs:label "RESMO"@tr , "رسمو"@ott , "Retimo"@tr , "Rethimnon"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/1408> a lawd:Place ;
+	rdfs:label "REVANDİZ"@tr , "رواندز"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/1409> a lawd:Place ;
+	rdfs:label "REYHANLI"@tr , "ريحانلی"@ott , "Reyhaniye"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/266> a lawd:Place ;
+	rdfs:label "RİZE"@tr , "ريزه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q201101" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1410> a lawd:Place ;
+	rdfs:label "RODOS"@tr , "ردوس"@ott , "Rodhos"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q188731" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/267> a lawd:Place ;
+	rdfs:label "Rodoscuk"@tr , "ردوسجق"@ott , "Rodosto"@tr , "Tekfurdağı"@tr , "TEKİRDAĞ"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1411> a lawd:Place ;
+	rdfs:label "RUDİN"@tr , "رودين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/155> a lawd:Place ;
+	rdfs:label "RUM EYÂLETİ"@tr , "روم ايالتی"@ott , "Amasya, Sivas"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/156> a lawd:Place ;
+	rdfs:label "RUMELİ Eyâleti"@tr , "روم ايلی ايالتی"@ott , "RUMELİ-İ ŞARKÎ"@tr , "روم ايلیء شرقی"@ott , "Filibe, Sofya"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/272> a lawd:Place ;
+	rdfs:label "RUSCUK"@tr , "روسجق"@ott , "Roustchouk"@tr , "Ruse"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q160173" ;
+	ottgaz:type "Sancak ve Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1412> a lawd:Place ;
+	rdfs:label "SA‘DA"@tr , "صعده"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1413> a lawd:Place ;
+	rdfs:label "SABYA"@tr , "صبيا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1414> a lawd:Place ;
+	rdfs:label "SAFED"@tr , "صفد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1415> a lawd:Place ;
+	rdfs:label "SAĞKOL"@tr , "صاغ قول"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1591> a lawd:Place ;
+	rdfs:label "SAĞMAN"@tr , "صاغمان"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1416> a lawd:Place ;
+	rdfs:label "SAHLA"@tr , "صحلا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1417> a lawd:Place ;
+	rdfs:label "SAİD BÛRANCİN"@tr , "سعيد بورانجين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/274> a lawd:Place ;
+	rdfs:label "SAKIZ"@tr , "ساقز"@ott , "Chio"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q748832" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/1418> a lawd:Place ;
+	rdfs:label "SALANTA"@tr , "صلانطه"@ott , "Salonta"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/1419> a lawd:Place ;
+	rdfs:label "SALHAD ve ACLUN"@tr , "صلحد وَ عجلون"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/159> a lawd:Place ;
+	rdfs:label "ŞAM"@tr , "شام"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1420> a lawd:Place ;
+	rdfs:label "SAMAKOV"@tr , "صماقوو"@ott , "Samokov"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/153> .
+
+<http://ottgaz.org/places/1421> a lawd:Place ;
+	rdfs:label "SAMARRA"@tr , "سامرا"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/276> a lawd:Place ;
+	rdfs:label "SAMSUN"@tr , "صامسون"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q160450" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/562> a lawd:Place ;
+	rdfs:label "SANA"@tr , "صنعا"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2471" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/522> a lawd:Place ;
+	rdfs:label "SARAYBOSNA"@tr , "سرای بوسنه"@ott , "Sarajevo"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q11194" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1422> a lawd:Place ;
+	rdfs:label "ŞARKİYE"@tr , "شرقيه"@ott , "Zekâzik"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1423> a lawd:Place ;
+	rdfs:label "ŞARKÖY"@tr , "شارکوی"@ott , "Pirot"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/145> .
+
+<http://ottgaz.org/places/1424> a lawd:Place ;
+	rdfs:label "Saruhan"@tr , "صاروخان"@ott , "MANİSA"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q147089" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1425> a lawd:Place ;
+	rdfs:label "SASIN"@tr , "صاصين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1426> a lawd:Place ;
+	rdfs:label "Şatak"@tr , "شتاق"@ott , "ÇATAK"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1427> a lawd:Place ;
+	rdfs:label "ŞAVŞAT"@tr , "شوشاد"@ott , "Yeniköy"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/160> a lawd:Place ;
+	rdfs:label "SAYDA"@tr , "صيدا"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/625> a lawd:Place ;
+	rdfs:label "SAYDA"@tr , "صيدا"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q163490" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1428> a lawd:Place ;
+	rdfs:label "SÂYİH"@tr , "الصايح"@ott , "Es-Sâyih"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1429> a lawd:Place ;
+	rdfs:label "ŞEBEŞ"@tr , "شبش"@ott , "Karanşebeş"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/1430> a lawd:Place ;
+	rdfs:label "ŞEBİNKARAHİSAR"@tr , "شبين قره حصار"@ott , "Karahisar-ı Şarkî"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1431> a lawd:Place ;
+	rdfs:label "SEÇEN"@tr , "سچن"@ott , "Szecsny"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1432> a lawd:Place ;
+	rdfs:label "SEFAKE"@tr , "سفاکه"@ott , "Çerkez Sefake"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1433> a lawd:Place ;
+	rdfs:label "SEGEDİN"@tr , "سکدين"@ott , "Szeged"@tr , "Baçka"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1434> a lawd:Place ;
+	rdfs:label "ŞEHR"@tr , "شهر"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1435> a lawd:Place ;
+	rdfs:label "ŞEHRİZOR"@tr , "شهرزور"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/161> a lawd:Place ;
+	rdfs:label "ŞEHRİZOR maa BAĞDAD"@tr , "شهرزور مع بغداد"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1436> a lawd:Place ;
+	rdfs:label "SEKÇÖY"@tr , "سکچوی"@ott , "Szekcsö"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1437> a lawd:Place ;
+	rdfs:label "SEKSAR"@tr , "سکسار"@ott , "Szekszard"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1438> a lawd:Place ;
+	rdfs:label "SELÂMİYE"@tr , "سلاميه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/163> a lawd:Place ;
+	rdfs:label "SELÂNİK"@tr , "سلانيک"@ott , "Thessalonike"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/626> a lawd:Place ;
+	rdfs:label "SELÂNİK"@tr , "سلانيک"@ott , "Thessalonike"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q17151" .
+
+<http://ottgaz.org/places/1439> a lawd:Place ;
+	rdfs:label "SELİNE"@tr , "سلينه"@ott , "Kdano"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/1440> a lawd:Place ;
+	rdfs:label "SELMAS"@tr , "سلماس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1441> a lawd:Place ;
+	rdfs:label "ŞEMAMİK"@tr , "شمامک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1442> a lawd:Place ;
+	rdfs:label "SEMAVE"@tr , "سماوه"@ott , "Es-Semave"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1443> a lawd:Place ;
+	rdfs:label "SEMENDİRE"@tr , "سمندره"@ott , "SMENDREVO"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1444> a lawd:Place ;
+	rdfs:label "SEMEREK"@tr , "سمرک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1445> a lawd:Place ;
+	rdfs:label "ŞEMSEDDİN EL-İMAM"@tr , "شمس الدين الامام"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1446> a lawd:Place ;
+	rdfs:label "SENİÇE"@tr , "سنيچه"@ott , "Yenipazar"@tr , "Novipazar"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1447> a lawd:Place ;
+	rdfs:label "SENKÖY"@tr , "سنکوی"@ott , "Szentjob"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/1577> a lawd:Place ;
+	rdfs:label "SERFİÇE"@tr , "سرفيچه"@ott , "Servia"@tr ;
+	ottgaz:type "Müstakil sancak" .
+
+<http://ottgaz.org/places/523> a lawd:Place ;
+	rdfs:label "ŞEYHSAİD"@tr , "شيخ سعيد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q4703239" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/168> .
+
+<http://ottgaz.org/places/1448> a lawd:Place ;
+	rdfs:label "SFAKS"@tr , "سفاقس"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1449> a lawd:Place ;
+	rdfs:label "SIĞACIK"@tr , "صيغه جق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/1450> a lawd:Place ;
+	rdfs:label "SİGETVAR"@tr , "سکتوار"@ott , "Szigetvar"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1451> a lawd:Place ;
+	rdfs:label "SIĞLA"@tr , "صغله"@ott , "Balat, Söke İzmir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/137> .
+
+<http://ottgaz.org/places/280> a lawd:Place ;
+	rdfs:label "SİİRT"@tr , "سعرد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1452> a lawd:Place ;
+	rdfs:label "SİKLOS"@tr , "سکلوس"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/571> a lawd:Place ;
+	rdfs:label "SİLİFKE"@tr , "سلفکه"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q650630" ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/139> .
+
+<http://ottgaz.org/places/164> a lawd:Place ;
+	rdfs:label "SİLİSTRE"@tr , "سلستره"@ott , "Silistra"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1453> a lawd:Place ;
+	rdfs:label "SİLİVRİ"@tr , "سيلوری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/1454> a lawd:Place ;
+	rdfs:label "ŞİMONTORNA"@tr , "شمنطورنه"@ott , "Smontornya"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1455> a lawd:Place ;
+	rdfs:label "SİNCAR"@tr , "سنجار"@ott , "Beled"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/282> a lawd:Place ;
+	rdfs:label "SİNOP"@tr , "سنوب"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/165> a lawd:Place ;
+	rdfs:label "SIRB"@tr , "صرب"@ott , "Sırbistan"@tr , "Belgrad"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/165> .
+
+<http://ottgaz.org/places/1456> a lawd:Place ;
+	rdfs:label "SİREM"@tr , "سرم"@ott , "Szerem"@tr , "Syrmien"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1457> a lawd:Place ;
+	rdfs:label "ŞİREVÎ"@tr , "شيره وی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/284> a lawd:Place ;
+	rdfs:label "ŞIRNAK"@tr , "شرناق"@ott , "Şırnah"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/110> .
+
+<http://ottgaz.org/places/1458> a lawd:Place ;
+	rdfs:label "SİROZ"@tr , "سيروز"@ott , "Serez"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/163> .
+
+<http://ottgaz.org/places/285> a lawd:Place ;
+	rdfs:label "ŞİRVAN"@tr , "شيروان"@ott , "Şamahi"@tr ;
+	ottgaz:type "Hanlık" .
+
+<http://ottgaz.org/places/1571> a lawd:Place ;
+	rdfs:label "ŞİRVAN"@tr , "شيروان"@ott , "Küfre"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1459> a lawd:Place ;
+	rdfs:label "Sis"@tr , "سيس"@ott , "KOZAN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1572> a lawd:Place ;
+	rdfs:label "SİSAM"@tr , "سيسام"@ott , "Samas"@tr , "Vati"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/629> a lawd:Place ;
+	rdfs:label "SİVAS"@tr , "سيواس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q107401" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/166> a lawd:Place ;
+	rdfs:label "SİVAS"@tr , "سيواس"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1460> a lawd:Place ;
+	rdfs:label "SİVEREK"@tr , "سيوه رک"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q216897" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1461> a lawd:Place ;
+	rdfs:label "SİVRİHİSAR"@tr , "سيوری حصار"@ott , "Seferihisar"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1462> a lawd:Place ;
+	rdfs:label "SİYÛT"@tr , "سيوط"@ott , "Asyût"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1592> a lawd:Place ;
+	rdfs:label "ŞOBEK"@tr , "شوبک"@ott ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/287> a lawd:Place ;
+	rdfs:label "SOFYA"@tr , "صوفيه"@ott , "Sofia"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q472" ;
+	ottgaz:type "Eyâlet merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/525> a lawd:Place ;
+	rdfs:label "SÖKMENÂBÂD"@tr , "سکمان آباد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q605105" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1463> a lawd:Place ;
+	rdfs:label "SOKOL"@tr , "صوقل"@ott , "Solkol"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1464> a lawd:Place ;
+	rdfs:label "SOLNOK"@tr , "صولنوق"@ott , "Szolnok"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1465> a lawd:Place ;
+	rdfs:label "SONİSA ve NİKSAR"@tr , "صونيسه وَ نيکسار"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1466> a lawd:Place ;
+	rdfs:label "Şoregil"@tr , "شوره کل"@ott , "Şöregel"@tr , "AKYAKA"@tr , "Kızılçakçak"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1467> a lawd:Place ;
+	rdfs:label "SREBRENİÇE"@tr , "سربرنيچه"@ott , "Sreberniçe"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q156053" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1468> a lawd:Place ;
+	rdfs:label "SUÂKİN"@tr , "سواکن"@ott , "Cezire-i Suâkin"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/1469> a lawd:Place ;
+	rdfs:label "SUKA"@tr , "سوقه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1470> a lawd:Place ;
+	rdfs:label "Süleymanân"@tr , "سليمانان"@ott , "AKALAN"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1471> a lawd:Place ;
+	rdfs:label "SÜLEYMANBEY KANSU"@tr , "سليمان بک قانصو"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1472> a lawd:Place ;
+	rdfs:label "SÜLEYMANİYE"@tr , "سليمانيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1473> a lawd:Place ;
+	rdfs:label "SULTANÖNÜ"@tr , "سلطان اوگی"@ott , "Eskişehir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1474> a lawd:Place ;
+	rdfs:label "SULTANÖNÜ maa KÜTAHYA"@tr , "سلطان اوگی مع کوتاهيه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/133> .
+
+<http://ottgaz.org/places/288> a lawd:Place ;
+	rdfs:label "ŞUMNU"@tr , "شمنو"@ott , "Şumen"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q181830" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/168> a lawd:Place ;
+	rdfs:label "SURİYE"@tr , "سوريه"@ott , "Şam"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/168> .
+
+<http://ottgaz.org/places/1593> a lawd:Place ;
+	rdfs:label "SURUÇ"@tr , "سروج"@ott , "Cisr-i Suruç"@tr ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1475> a lawd:Place ;
+	rdfs:label "SÜRÜÇEK maa KIZILCA"@tr , "سروچک مع قزيلجه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1476> a lawd:Place ;
+	rdfs:label "SÜVEYŞ"@tr , "سويش"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/290> a lawd:Place ;
+	rdfs:label "TA‘İZZ"@tr , "تعز"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q466216" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1477> a lawd:Place ;
+	rdfs:label "TAMAN"@tr , "طمان"@ott , "Halbinsel Taman"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1478> a lawd:Place ;
+	rdfs:label "TARALAT"@tr , "ترالات"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1479> a lawd:Place ;
+	rdfs:label "Tarîk-ı Horasan"@tr , "طريق خراسان"@ott , "HORASAN"@tr , "Bakuba"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/107> .
+
+<http://ottgaz.org/places/1480> a lawd:Place ;
+	rdfs:label "TARNOPOL"@tr , "تارنوپول"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1481> a lawd:Place ;
+	rdfs:label "TARRÂNE"@tr , "طرانه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/149> .
+
+<http://ottgaz.org/places/1482> a lawd:Place ;
+	rdfs:label "TARSUS"@tr , "طرسوس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1483> a lawd:Place ;
+	rdfs:label "TAŞİR"@tr , "طاشير"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1484> a lawd:Place ;
+	rdfs:label "TAŞLICA"@tr , "طاشليجه"@ott , "Pljevlja"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1485> a lawd:Place ;
+	rdfs:label "TAŞOZ"@tr , "طاشوز"@ott , "Thasos"@tr , "Volgaro"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/118> .
+
+<http://ottgaz.org/places/291> a lawd:Place ;
+	rdfs:label "TATARBAZARCIĞI"@tr , "تاتاربازارجغی"@ott , "Pazarzdzhık"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1486> a lawd:Place ;
+	rdfs:label "TATİLİ"@tr , "طات ايلی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/143> .
+
+<http://ottgaz.org/places/1487> a lawd:Place ;
+	rdfs:label "TAVİLA"@tr , "طويله"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1488> a lawd:Place ;
+	rdfs:label "Tavusker"@tr , "طاوسکر"@ott , "ÇATAKSU"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/292> a lawd:Place ;
+	rdfs:label "TEBRİZ"@tr , "تبريز"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q80053" ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1489> a lawd:Place ;
+	rdfs:label "TEDMÜR"@tr , "تدمر"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/1490> a lawd:Place ;
+	rdfs:label "TEKE"@tr , "تکه"@ott , "Elmalı, Antalya"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/293> a lawd:Place ;
+	rdfs:label "TEKİRDAĞ"@tr , "تکيرطاغ"@ott , "Tekfurdağı"@tr , "Rodosçuk"@tr , "Rodosto"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1491> a lawd:Place ;
+	rdfs:label "Tercil"@tr , "ترجيل"@ott , "HAZRO"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/573> a lawd:Place ;
+	rdfs:label "TİBNİN"@tr , "تبنين"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2733823" ;
+	ottgaz:type "Nahiye" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/294> a lawd:Place ;
+	rdfs:label "TİFLİS"@tr , "تفليس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q994" ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1492> a lawd:Place ;
+	rdfs:label "TİKRİT"@tr , "تکريت"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/152> .
+
+<http://ottgaz.org/places/169> a lawd:Place ;
+	rdfs:label "TIMIŞVAR"@tr , "طمشوار"@ott , "Timişoara, Temeşvar"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q83404" ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/296> a lawd:Place ;
+	rdfs:label "TIRHALA"@tr , "ترحاله"@ott , "Trikkala"@tr , "Yenişehir"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1493> a lawd:Place ;
+	rdfs:label "TIRNOVA"@tr , "طرنوه"@ott , "Tırnovacık"@tr , "Malko-Tırnovo"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/297> a lawd:Place ;
+	rdfs:label "TIRNOVİ"@tr , "طرنوی"@ott , "Tırnova"@tr , "Veliko-Tırnovo"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/1597> a lawd:Place ;
+	rdfs:label "TOKAT"@tr , "توقاد"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1573> a lawd:Place ;
+	rdfs:label "TORTUM"@tr , "تورتوم"@ott , "Nihah"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/298> a lawd:Place ;
+	rdfs:label "TRABLUS"@tr , "طرابلس"@ott , "Trablusşam"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/170> a lawd:Place ;
+	rdfs:label "TRABLUS"@tr , "طرابلس"@ott , "Trablusgarp"@tr , "Tripoli de Barbarie"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/171> a lawd:Place ;
+	rdfs:label "TRABZON"@tr , "طرابزون"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/630> a lawd:Place ;
+	rdfs:label "TRABZON"@tr , "طرابزون"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q45301" .
+
+<http://ottgaz.org/places/1495> a lawd:Place ;
+	rdfs:label "TRAVNİK"@tr , "تراونيک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1496> a lawd:Place ;
+	rdfs:label "TRAVNİK"@tr , "تراونيک"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q159818" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1497> a lawd:Place ;
+	rdfs:label "TRAVNİK maa KİLİS"@tr , "تراونيک مع کليس"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1498> a lawd:Place ;
+	rdfs:label "TREBİN"@tr , "تره بين"@ott , "Trebinje"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/526> a lawd:Place ;
+	rdfs:label "TREN"@tr , "ترن"@ott , "Tern"@tr ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/115> .
+
+<http://ottgaz.org/places/1499> a lawd:Place ;
+	rdfs:label "TULCA"@tr , "طولجی"@ott , "Tulcea"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/172> a lawd:Place ;
+	rdfs:label "TUNA"@tr , "طونه"@ott , "Ruscuk, Şumnu"@tr ;
+	ottgaz:type "Vilâyet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/172> .
+
+<http://ottgaz.org/places/1500> a lawd:Place ;
+	rdfs:label "TUNABURGAZ"@tr , "طونه بورغاز"@ott , "Sünne, Sulina"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/173> a lawd:Place ;
+	rdfs:label "TUNUS"@tr , "تونس"@ott , "Tûnis"@tr ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1501> a lawd:Place ;
+	rdfs:label "TURÂBÎ"@tr , "ترابی"@ott , "Beni Turâbî"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/160> .
+
+<http://ottgaz.org/places/1502> a lawd:Place ;
+	rdfs:label "TÜRKMEN"@tr , "ترکمان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/527> a lawd:Place ;
+	rdfs:label "TUZLA-İ ZÎR"@tr , "طوزلهء زير"@ott , "Donj-Tuzla"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q174684" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/1503> a lawd:Place ;
+	rdfs:label "UDE"@tr , "اوده"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1598> a lawd:Place ;
+	rdfs:label "ÜNYE"@tr , "اونيه"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/155> .
+
+<http://ottgaz.org/places/1504> a lawd:Place ;
+	rdfs:label "URAĞZI"@tr , "اور آغزی"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/304> a lawd:Place ;
+	rdfs:label "URFA"@tr , "اورفه"@ott , "Ruha"@tr , "روها"@ott , "ŞANLIURFA"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q133118" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1505> a lawd:Place ;
+	rdfs:label "URFA"@tr , "اورفه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/119> .
+
+<http://ottgaz.org/places/1506> a lawd:Place ;
+	rdfs:label "URFİLE"@tr , "اورفله"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/170> .
+
+<http://ottgaz.org/places/305> a lawd:Place ;
+	rdfs:label "UŞAK"@tr , "عشاق"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1507> a lawd:Place ;
+	rdfs:label "ÜSKÜDAR"@tr , "اسکدار"@ott , "Skutari"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/174> a lawd:Place ;
+	rdfs:label "ÜSKÜP"@tr , "اسکوب"@ott , "Skopje"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/631> a lawd:Place ;
+	rdfs:label "ÜSKÜP"@tr , "اسکوب"@ott , "Skopje"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q384" .
+
+<http://ottgaz.org/places/1508> a lawd:Place ;
+	rdfs:label "UŞTİ"@tr , "اوشتی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/307> a lawd:Place ;
+	rdfs:label "UYVAR"@tr , "اويوار"@ott , "Erseküjvar"@tr , "Slovakça: Nove Zamky."@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q276362" ;
+	ottgaz:type "Eyâlet" .
+
+<http://ottgaz.org/places/1509> a lawd:Place ;
+	rdfs:label "ÜZEYR"@tr , "عزير"@ott , "Payas, Yarpuz"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/103> .
+
+<http://ottgaz.org/places/1510> a lawd:Place ;
+	rdfs:label "VAÇ"@tr , "واج"@ott , "Waizen"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1511> a lawd:Place ;
+	rdfs:label "VÂDİ-İ BENİ KOTUR"@tr , "وادئ بنی قطور"@ott , "Kotur"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1512> a lawd:Place ;
+	rdfs:label "VÂDİ-İ HUBAN"@tr , "وادئ خبان"@ott , "Vâdi-i Çoban"@tr , "Bilâd-ı Çoban"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1513> a lawd:Place ;
+	rdfs:label "VALPOVA"@tr , "والپوه"@ott , "Kroat, Valpovo"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/136> .
+
+<http://ottgaz.org/places/528> a lawd:Place ;
+	rdfs:label "VAMOS"@tr , "واموس"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q605562" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/175> a lawd:Place ;
+	rdfs:label "VAN"@tr , "وان"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1514> a lawd:Place ;
+	rdfs:label "VAN maa HAKKÂRİ"@tr , "وان مع حکاری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/1515> a lawd:Place ;
+	rdfs:label "VAN maa HAKKÂRİ"@tr , "وان مع حکاری"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/125> .
+
+<http://ottgaz.org/places/177> a lawd:Place ;
+	rdfs:label "VARAD"@tr , "واراد"@ott , "Nagy Varad"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/177> .
+
+<http://ottgaz.org/places/310> a lawd:Place ;
+	rdfs:label "VARNA"@tr , "وارنه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/164> .
+
+<http://ottgaz.org/places/1516> a lawd:Place ;
+	rdfs:label "VASAB"@tr , "وصاب"@ott , "Usab"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1517> a lawd:Place ;
+	rdfs:label "VASIT"@tr , "واسط"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1518> a lawd:Place ;
+	rdfs:label "VEDANE ve LEHEN"@tr , "ودانه وَ لهن"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1519> a lawd:Place ;
+	rdfs:label "Verişan"@tr , "وريشان"@ott , "GÜRBÜZLER"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/1520> a lawd:Place ;
+	rdfs:label "VESPRİM"@tr , "وسپريم"@ott , "Veszprem"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/178> a lawd:Place ;
+	rdfs:label "VİDİN"@tr , "ويدين"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1521> a lawd:Place ;
+	rdfs:label "VİRANŞEHİR"@tr , "ويران شهر"@ott , "Eskipazar"@tr , "Bolu"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1522> a lawd:Place ;
+	rdfs:label "VİZE"@tr , "ويزه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/529> a lawd:Place ;
+	rdfs:label "VOLGARO"@tr , "وولغارو"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q557754" ;
+	ottgaz:type "Sancak merkezi" .
+
+<http://ottgaz.org/places/1523> a lawd:Place ;
+	rdfs:label "VOYNUK"@tr , "ووينوق"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1574> a lawd:Place ;
+	rdfs:label "VRAÇE"@tr , "وراچه"@ott , "Vratsa"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/172> .
+
+<http://ottgaz.org/places/530> a lawd:Place ;
+	rdfs:label "VRANYA"@tr , "ورانيه"@ott , "Vranjea"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2456798" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/174> .
+
+<http://ottgaz.org/places/1524> a lawd:Place ;
+	rdfs:label "VULÇİTRİN"@tr , "ولچترين"@ott , "Vuçitrn"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1525> a lawd:Place ;
+	rdfs:label "VUSTAN"@tr , "وسطان"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/175> .
+
+<http://ottgaz.org/places/1526> a lawd:Place ;
+	rdfs:label "YAFA"@tr , "يافه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/159> .
+
+<http://ottgaz.org/places/312> a lawd:Place ;
+	rdfs:label "Yalakâbâd"@tr , "يلاق آباد"@ott , "YALOVA"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/313> a lawd:Place ;
+	rdfs:label "YALOVA"@tr , "يالوه"@ott , "Yalakâbâd"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/314> a lawd:Place ;
+	rdfs:label "YANIK"@tr , "يانق"@ott , "Györ, Raab"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1527> a lawd:Place ;
+	rdfs:label "YANOVA"@tr , "يانوه"@ott , "Ineu"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/169> .
+
+<http://ottgaz.org/places/180> a lawd:Place ;
+	rdfs:label "YANYA"@tr , "يانيه"@ott , "Iannina"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/576> a lawd:Place ;
+	rdfs:label "YARPUZ"@tr , "يارپوز"@ott , "Cebel"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q8049492" ;
+	ottgaz:type "Köy" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/316> a lawd:Place ;
+	rdfs:label "YAŞ"@tr , "ياش"@ott ;
+	ottgaz:type "Voyvodalık merkezi" .
+
+<http://ottgaz.org/places/565> a lawd:Place ;
+	rdfs:label "YEKATERİNODAR"@tr , "يقا ترينودار"@ott , "Jekaterinodor"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q3646" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/181> a lawd:Place ;
+	rdfs:label "YEMEN"@tr , "يمن"@ott ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1528> a lawd:Place ;
+	rdfs:label "YENBU‘"@tr , "ينبع"@ott , "Yenbu’ul-bahr"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/1530> a lawd:Place ;
+	rdfs:label "YENİİL"@tr , "يکی ايل"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/166> .
+
+<http://ottgaz.org/places/1532> a lawd:Place ;
+	rdfs:label "YENİPAZAR"@tr , "يکی بازار"@ott , "Novipazar"@tr , "Seniçe"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/113> .
+
+<http://ottgaz.org/places/532> a lawd:Place ;
+	rdfs:label "YENİŞEHİR"@tr , "يکی شهر"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q1736413" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/126> .
+
+<http://ottgaz.org/places/318> a lawd:Place ;
+	rdfs:label "YOZGAT"@tr , "يوزغاد"@ott , "Bozok"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q210292" ;
+	ottgaz:type "Sancak merkezi" ;
+	dcterms:isPartOf <http://ottgaz.org/places/114> .
+
+<http://ottgaz.org/places/1533> a lawd:Place ;
+	rdfs:label "YÜRÜK"@tr , "يورک"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1534> a lawd:Place ;
+	rdfs:label "ZAÇESNE"@tr , "زاچسنه"@ott , "Çernik"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/156> .
+
+<http://ottgaz.org/places/1535> a lawd:Place ;
+	rdfs:label "ZADRİME"@tr , "زادريمه"@ott ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/319> a lawd:Place ;
+	rdfs:label "ZAĞRA-İ ATÎK"@tr , "زغرهء عتيق"@ott , "Eskizağra"@tr , "Stara-Zagora"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/122> .
+
+<http://ottgaz.org/places/1575> a lawd:Place ;
+	rdfs:label "ZAHO"@tr , "زاخو"@ott , "Buhtan"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1536> a lawd:Place ;
+	rdfs:label "ZAMAR"@tr , "ذمار"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1537> a lawd:Place ;
+	rdfs:label "ZANGA"@tr , "زنقه"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/161> .
+
+<http://ottgaz.org/places/1538> a lawd:Place ;
+	rdfs:label "ZARA"@tr , "زاره"@ott , "Zadar"@tr ;
+	ottgaz:type "Sancak" .
+
+<http://ottgaz.org/places/1540> a lawd:Place ;
+	rdfs:label "ZARUŞAD"@tr , "زاروشاد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/140> .
+
+<http://ottgaz.org/places/1541> a lawd:Place ;
+	rdfs:label "ZEBİD"@tr , "زبيد"@ott ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q138986" ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/181> .
+
+<http://ottgaz.org/places/1542> a lawd:Place ;
+	rdfs:label "ZENGÂBÂD"@tr , "زنک آباد"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/106> .
+
+<http://ottgaz.org/places/1543> a lawd:Place ;
+	rdfs:label "ZERİKİ"@tr , "زريکی"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/121> .
+
+<http://ottgaz.org/places/1544> a lawd:Place ;
+	rdfs:label "ZEYLÂ"@tr , "زيلع"@ott ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/128> .
+
+<http://ottgaz.org/places/567> a lawd:Place ;
+	rdfs:label "ZEYTÜN"@tr , "زيتون"@ott , "Lamia"@tr ;
+	skos:closeMatch "https://www.wikidata.org/wiki/Q2664842" ;
+	ottgaz:type "Eyâlet merkezi" .
+
+<http://ottgaz.org/places/1576> a lawd:Place ;
+	rdfs:label "ZİLE"@tr , "زيله"@ott , "Zela"@tr ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/101> .
+
+<http://ottgaz.org/places/1545> a lawd:Place ;
+	rdfs:label "ZİŞTOVİ"@tr , "زشتوی"@ott , "Sviştov"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/178> .
+
+<http://ottgaz.org/places/320> a lawd:Place ;
+	rdfs:label "ZONGULDAK"@tr , "زونغولداق"@ott ;
+	ottgaz:type "Kaza" ;
+	dcterms:isPartOf <http://ottgaz.org/places/141> .
+
+<http://ottgaz.org/places/1546> a lawd:Place ;
+	rdfs:label "ZOR"@tr , "زور"@ott , "Deyr"@tr ;
+	ottgaz:type "Sancak" ;
+	dcterms:isPartOf <http://ottgaz.org/places/129> .
+
+<http://ottgaz.org/places/183> a lawd:Place ;
+	rdfs:label "ZÜLKADRİYE"@tr , "ذولقدريه"@ott , "Maraş"@tr ;
+	ottgaz:type "Eyâlet" ;
+	dcterms:isPartOf <http://ottgaz.org/places/183> .
