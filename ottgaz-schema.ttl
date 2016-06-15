@@ -1,0 +1,38 @@
+@prefix og:	<http://ottgaz.org/schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix cito: <http://purl.org/spar/cito> .
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+og:Vilayet
+	a rdfs:Class ;
+	rdfs:label "Vilayet"@tr, "Province"@en ;
+	rdfs:comment "A first order administrative unit of the Ottoman empire." .
+
+og:Sancak
+	a rdfs:Class ;
+	rdfs:label "Sancak"@tr, "Subprovince"@en ;
+	rdfs:comment "A second order administrative unit of the Ottoman empire." .
+
+og:Kaza
+	a rdfs:Class ;
+	rdfs:label "Kaza"@tr, "District"@en ;
+	rdfs:comment "A third order administrative unit of the Ottoman empire." .
+
+og:Nahiye
+	a rdfs:Class ;
+	rdfs:label "Nahiye"@tr, "Subdistrict"@en ;
+	rdfs:comment "A fourth order administrative unit of the Ottoman empire." .
+
+og:Merkez
+	a rdfs:Class ;
+	rdfs:label "Merkez"@tr, "Center"@en ;
+	rdfs:comment "The seat of an administrative unit of the Ottoman empire." .
+
