@@ -13,26 +13,37 @@
 
 og:Vilayet
 	a rdfs:Class ;
+	a gn:A.ADM1H ;
 	rdfs:label "Vilayet"@tr, "Province"@en ;
 	rdfs:comment "A first order administrative unit of the Ottoman empire." .
 
 og:Sancak
-	a rdfs:Class ;
+	rdfs:subClassOf og:Vilayet ;
+	a gn:A.ADM2H ;
 	rdfs:label "Sancak"@tr, "Subprovince"@en ;
 	rdfs:comment "A second order administrative unit of the Ottoman empire." .
 
 og:Kaza
-	a rdfs:Class ;
+	rdfs:subClassOf og:Sancak ;
+	a gn:A.ADM3H ;
 	rdfs:label "Kaza"@tr, "District"@en ;
 	rdfs:comment "A third order administrative unit of the Ottoman empire." .
 
 og:Nahiye
-	a rdfs:Class ;
+	rdfs:subClassOf og:Kaza ;
+	a gn:A.ADM4H ;
 	rdfs:label "Nahiye"@tr, "Subdistrict"@en ;
 	rdfs:comment "A fourth order administrative unit of the Ottoman empire." .
 
 og:Merkez
 	a rdfs:Class ;
+	a gn:P.PPL ;
 	rdfs:label "Merkez"@tr, "Center"@en ;
 	rdfs:comment "The seat of an administrative unit of the Ottoman empire." .
+
+og:hasMerkez
+	a rdfs:Property ;
+	rdfs:comment "Identifies the seat of the administrative district."
+	rdfs:label "merkez"@tr, "seat"@en ;
+	rdfs:range og:Merkez .
 
