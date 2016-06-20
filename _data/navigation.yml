@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Places"
-    href: "/places/"
+    href: "/_pages/places/"
     
   - title: "About"
-    href: "/about/"
+    href: "/_/pages/about/"
     
   - title: "Blog"
     href: "/archive/"
