@@ -9,5 +9,5 @@ main:
   - title: "Blog"
     href: "/archive/"
     
-  - title: "Sample Collections"
-    url: https://ottgaz.org/collection-archive/
+  - title: "Github"
+    url: https://github.com/whanley/Ottoman-Gazetteer
