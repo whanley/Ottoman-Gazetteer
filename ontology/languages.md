@@ -1,7 +1,7 @@
 ## List of languages and scripts for Ottoman history
 Based on [IANA standards](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 
-Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Greek|Other
+Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Other
 ---|---|---|---|---|---|---|---|---|---
 **Ottoman**|ota|ota|ota-Latn|ota-Armn|ota-Grek|
 **Turkish**|tur||tur|
@@ -14,12 +14,12 @@ Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Greek|
 **Church Slavonic**|cu|
 **Circassian**|*not in IANA?*||Latin|
 **Croatian**|hr||hr|
-**Coptic**|cop|cop-Arab||||||||Coptic
+**Coptic**|cop|cop-Arab|||||||Coptic
 **Dutch**|nl||nl|
 **English**|en||en|
 **French**|fr||fr|
 **Genoese**|*not in IANA?*||Latin|
-**Georgian**|ka||||||||Georgian [ka]
+**Georgian**|ka|||||||Georgian [ka]
 **German**|de||de||||de-Hebr|
 **Greek (Modern)**|el|el-Arab|||el|
 **Greek, Classical**||grc|grc-Arab||grc|
@@ -36,7 +36,7 @@ Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Greek|
 **Moldavian**|mo|
 **Persian**|fa|fa|
 **Polish**|pl||pl|
-**Romanian**|ro||ro||||||Church Slavonic [ro-Cyrs]
+**Romanian**|ro||ro|||||Church Slavonic [ro-Cyrs]
 **Russian**|ru|||||ru|
 **Ruthenian** a.k.a - Old Ukrainian - Old Belorussian|*not in IANA?*|Arabic|Latin|||Cyrillic|
 **Serbian**|sr||sr-Latn|||sr-Cyrl|
@@ -44,4 +44,4 @@ Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Greek|
 **Syriac**|syr|
 **Ukrainian**|uk|||||uk|
 **Venetian**|vec||vec-Latin|
-**Wallachian**|*not in IANA?*||||||||Church Slavonic [???-Cyrs]
+**Wallachian**|*not in IANA?*|||||||Church Slavonic [???-Cyrs]
