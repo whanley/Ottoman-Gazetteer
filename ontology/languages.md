@@ -22,14 +22,14 @@ Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Other
 **Georgian**|ka|||||||Georgian [ka]
 **German**|de||de||||de-Hebr|
 **Greek (Modern)**|el|el-Arab|||el|
-**Greek, Classical**||grc|grc-Arab||grc|
+**Greek, Classical**|grc||grc-Arab||grc|
 **Hebrew**|he|he-Arab|||he-Grek|
 **Hungarian**|hu||hu|
 **Italian**|it||it|
 **Judeo-Arabic**|aln|
 **Judeo-Persian**|jpr|
 **Kıpçak**|*not in IANA?*|Persian?||Armenian||Cyrillic|
-**Ladino**|lad|lad-Arab|lad-Latn|||||lad-Hebr|
+**Ladino**|lad|lad-Arab|lad-Latn||||lad-Hebr|
 **Latin**|lat||lat|
 **Macedonian**|mk|||||mk|
 **Maltese**|mt|mt-Arab|mt|
