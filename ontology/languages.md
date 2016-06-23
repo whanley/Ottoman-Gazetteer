@@ -22,7 +22,7 @@ Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Other
 **Georgian**|ka|||||||Georgian [ka]
 **German**|de||de||||de-Hebr|
 **Greek (Modern)**|el|el-Arab|||el|
-**Greek, Classical**|grc||grc-Arab||grc|
+**Greek (Classical)**|grc||grc-Arab||grc|
 **Hebrew**|he|he-Arab|||he-Grek|
 **Hungarian**|hu||hu|
 **Italian**|it||it|
