@@ -1,9 +1,11 @@
 ---
 title: "Transforming the Osmanlı Yer Adları"
-author: Will Hanley
 date: 2017-10-06
-layout: post
-categories: ocr openrefine sezen archived
+tags:
+  - ocr
+  - openrefine
+  - sezen
+  - archived
 ---
 
 I began to generate the base data for this gazetteer using a PDF that I found online.
