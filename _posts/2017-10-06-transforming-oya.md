@@ -1,5 +1,6 @@
 ---
 title: "Transforming the Osmanlı Yer Adları"
+layout: single
 date: 2017-10-06
 tags:
   - ocr
