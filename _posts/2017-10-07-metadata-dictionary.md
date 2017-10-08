@@ -1,7 +1,7 @@
 ---
 title: "Metadata dictionary"
 layout: single
-date: 2017-10-06
+date: 2017-10-07
 tags:
   - sezen
   - metadata
