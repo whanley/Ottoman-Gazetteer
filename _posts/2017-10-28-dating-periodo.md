@@ -17,4 +17,4 @@ Sezen's "[Osmanlı Yer Adları](http://www.os-ar.com/osmanli_yer_isimleri.pdf)" 
 
 The dates are distributed in this manner:
 
-<iframe src="https://public.tableau.com/views/Ottgaz/Sheet1?:embed=y&:display_count=yes" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/Ottgaz/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
