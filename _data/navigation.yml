@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Places"
-    href: /places
+    href: /places/
 
   - title: "About"
-    href: /about
+    href: /about/
 
   - title: "Blog"
-    href: /archive
+    href: /archive/
 
   - title: "Github"
     url: https://github.com/whanley/Ottoman-Gazetteer
