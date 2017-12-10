@@ -4,7 +4,7 @@ title                    : "Ottoman Gazetteer"
 title_separator          : "-"
 name                     : "Will Hanley"
 description              : "A linked open data historical gazetteer of the Ottoman Empire."
-url                      : "http://ottgaz.org"
+url                      : "http://ottgaz.org/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
