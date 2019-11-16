@@ -49,7 +49,7 @@ og:Merkez
 
 og:hasMerkez
 	a rdfs:Property ;
-	rdfs:comment "Identifies the seat of the administrative district."
+	rdfs:comment "Identifies the seat of the administrative district." ;
 	rdfs:label "merkez"@tr, "seat"@en ;
 	rdfs:range og:Merkez .
 
