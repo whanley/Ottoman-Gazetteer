@@ -2,7 +2,7 @@
 Based on [IANA standards](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 
 Language name|Default|Arabic/Persian|Latin|Armenian|Greek|Cyrillic|Hebrew|Other
----|---|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---|---
 **Ottoman**|ota|ota|ota-Latn|ota-Armn|ota-Grek|
 **Turkish**|tur||tur|
 **Albanian, Gheg**|aln|
