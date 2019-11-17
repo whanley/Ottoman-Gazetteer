@@ -11,45 +11,45 @@ It uses the following fields:
 ### Unvan Dictionary
 The administrative units, roughly in order of frequency, with certain weblinks embedded.
 
-Turkish|Ottoman|English|notes
----|---|---|---
-[Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|Subsidiary to kaza
-Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|Subsidiary to sancak
-[Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|Subsidiary to eyalet or vilayet
-Köy|كوى|Village|used principally in the 20th century
-Kasaba|قصبه|Town|used principally in the 20th century
-Nahiye merkezi|ناحيه مركزى|Subdistrict seat|
-Kaza merkezi|قضا مركزى|District seat|
-Eyâlet|ايالت|[Province](https://en.wikipedia.org/wiki/Eyalet)|before 1867
-Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|after 1867
-Eyâlet merkezi|ايالت مركزى|Province seat|before 1867
-Sancak merkezi|سنجق مركزى|Subprovince seat|
-Vilâyet merkezi|ولايت مركزى|Provincial seat|after 1867
-Şehir|شهر|City|here, typically outside of the Ottoman empire
-Ada|آطه|Island|often also a sancak or kaza
-Müdiriyet|مديريت|Department|of Egypt
-Antik şehir||Ancient city|
-Başkent||Capital city|
-Kale|قلعه|Fortress|
-Müstakil sancak||"Independent" subprovince|
-Müdiriyet merkezi||Department seat|of Egypt
-Başşehir||Capital city|
-Bölge|بولكه|Region|
-Semt|سمت|Quarter|i.e. of a city
-Liman şehri||Port city|
-Muhafızlık|||
-Antik kasaba|||
-Takımada|||
-Ülke|||
-Mahalle|||
-Beylik merkezi|||
-Geçit|||
-Hanlık|||
-Köy ve göl|||
-Kaymakamlık|||
-Kontluk|||
-Krallık|||
-Muhtar idare|||
+Turkish|Ottoman|English|geonames|notes
+---|---|---|---|---
+[Nahiye](https://tr.wikipedia.org/wiki/Bucak_%28idari_birim%29)|ناحيه|[Subdistrict](https://en.wikipedia.org/wiki/Nahiye_%28Ottoman%29)|A.ADM4H|Subsidiary to kaza
+Kaza|قضا|[District](https://en.wikipedia.org/wiki/Kaza)|A.ADM3H|Subsidiary to sancak
+[Sancak](https://tr.wikipedia.org/wiki/Sancak_%28y%C3%B6netim_b%C3%B6l%C3%BCm%C3%BC%29)|سنجق|[Subprovince](https://en.wikipedia.org/wiki/Sanjak)|A.ADM2H|Subsidiary to eyalet or vilayet
+Köy|كوى|Village||used principally in the 20th century
+Kasaba|قصبه|Town||used principally in the 20th century
+Nahiye merkezi|ناحيه مركزى|Subdistrict seat|P.PPL|
+Kaza merkezi|قضا مركزى|District seat|P.PPL|
+Eyâlet|ايالت|[Province](https://en.wikipedia.org/wiki/Eyalet)|A.ADM1H|before 1867
+Vilâyet|ولايت|[Province](https://en.wikipedia.org/wiki/Vilayet)|A.ADM1H|after 1867
+Eyâlet merkezi|ايالت مركزى|Province seat|P.PPL|before 1867
+Sancak merkezi|سنجق مركزى|Subprovince seat|P.PPL|
+Vilâyet merkezi|ولايت مركزى|Provincial seat|P.PPL|after 1867
+Şehir|شهر|City||here, typically outside of the Ottoman empire
+Ada|آطه|Island||often also a sancak or kaza
+Müdiriyet|مديريت|Department||of Egypt
+Antik şehir||Ancient city||
+Başkent||Capital city||
+Kale|قلعه|Fortress||
+Müstakil sancak||"Independent" subprovince||
+Müdiriyet merkezi||Department seat|P.PPL|of Egypt
+Başşehir||Capital city||
+Bölge|بولكه|Region||
+Semt|سمت|Quarter||i.e. of a city
+Liman şehri||Port city||
+Muhafızlık||||
+Antik kasaba||||
+Takımada||||
+Ülke||||
+Mahalle||||
+Beylik merkezi||||
+Geçit||||
+Hanlık||||
+Köy ve göl||||
+Kaymakamlık||||
+Kontluk||||
+Krallık||||
+Muhtar idare||||
 
 ### Usage notes
 
