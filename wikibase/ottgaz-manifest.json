@@ -1,0 +1,29 @@
+{
+    "version": "2.0",
+    "mediawiki": {
+        "name": "Ottgaz",
+        "root": "https://ottgaz.org/w/",
+        "main_page": "https://ottgaz.org/w/Main_Page",
+        "api": "https://ottgaz.org/w/api.php"
+    },
+    "wikibase": {
+        "site_iri": "https://ottgaz.org/entity/",
+        "maxlag": 5,
+        "tag": "openrefine-${version}",
+        "properties": {
+            "instance_of": "P6",
+            "subclass_of": "P5"
+        }
+    },
+    "entity_types": {
+        "item": {
+           "site_iri": "https://ottgaz.org/entity/",
+           "reconciliation_endpoint": "https://ottgaz.org/reconcile/${lang}/api",
+           "mediawiki_api": "https://ottgaz.org/w/api.php"
+        },
+        "property": {
+           "site_iri": "https://ottgaz.org/entity/",
+           "mediawiki_api": "https://ottgaz.org/w/api.php"
+        }
+    }
+}
