@@ -2,8 +2,8 @@
     "version": "2.0",
     "mediawiki": {
         "name": "Ottgaz",
-        "root": "https://ottgaz.org/w/",
-        "main_page": "https://ottgaz.org/w/Main_Page",
+        "root": "https://ottgaz.org/wiki/",
+        "main_page": "https://ottgaz.org/wiki/Main_Page",
         "api": "https://ottgaz.org/w/api.php"
     },
     "wikibase": {
@@ -14,6 +14,9 @@
             "instance_of": "P6",
             "subclass_of": "P5"
         }
+    },
+    "oauth": {
+        "registration_page": "https://ottgaz.org/wiki/Special:OAuthConsumerRegistration/propose"
     },
     "entity_types": {
         "item": {
